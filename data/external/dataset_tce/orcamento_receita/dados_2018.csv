@@ -1,0 +1,95 @@
+codigo_municipio,exercicio_orcamento,codigo_orgao,codigo_unidade,codigo_rubrica,tipo_fonte,codigo_fonte,descricao_rubrica,valor_previsto
+048,201800,34,34  ,171801410000000,1,01       ,COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS FPM - 1% COTA ENTREGUE NO MES DE JULHO - PRINCIPAL,0.0
+048,201800,AA,AA  ,111303110000000,1,01       ,Imposto sobre a Renda - Retido na Fonte - Trabalho - Principal,1580000.0
+048,201800,AA,AA  ,111801110000000,1,01       ,Imposto sobre a Propriedade Predial e Territorial Urbana - Principal,1633679.76
+048,201800,AA,AA  ,111801410000000,1,01       ,Imposto sobre Transmissao Inter Vivos de Bens Imoveis e de Direitos Reais sobre Imoveis - Principal,450000.0
+048,201800,AA,AA  ,111802310000000,1,01       ,Imposto sobre Servicos de Qualquer Natureza - Principal,3314000.0
+048,201800,AA,AA  ,111802310100000,1,01       ,ISS - SIMPLES NACIONAL,0.0
+048,201800,AA,AA  ,112101110000000,1,01       ,Taxas de Inspecao  Controle e Fiscalizacao - Principal,486000.0
+048,201800,AA,AA  ,112201110000000,1,01       ,Taxas pela Prestacao de Servicos - Principal,211000.0
+048,201800,AA,AA  ,124000110000000,2,12       ,Contribuicao para o Custeio do Servico de Iluminacao Publica - Principal,50000.0
+048,201800,AA,AA  ,132100111000000,1,01       ,Remuneracao de Depositos Bancarios - Vinculados,265000.0
+048,201800,AA,AA  ,132100111000000,2,09       ,Remuneracao de Depositos Bancarios - Vinculados,110000.0
+048,201800,AA,AA  ,132100111000000,2,10       ,Remuneracao de Depositos Bancarios - Vinculados,83000.0
+048,201800,AA,AA  ,132100111000000,2,13       ,Remuneracao de Depositos Bancarios - Vinculados,125000.0
+048,201800,AA,AA  ,132100111000000,2,14       ,Remuneracao de Depositos Bancarios - Vinculados,75000.0
+048,201800,AA,AA  ,132100111000000,2,24       ,Remuneracao de Depositos Bancarios - Vinculados,60000.0
+048,201800,AA,AA  ,132100111000000,2,30       ,Remuneracao de Depositos Bancarios - Vinculados,5000.0
+048,201800,AA,AA  ,132100111300000,1,01       ,Remuneracao de Depositos Bancarios - Nao Vinculados,549029.78
+048,201800,AA,AA  ,139000110000000,1,01       ,Demais Receitas Patrimonias - Principal,55000.0
+048,201800,AA,AA  ,161002110000000,1,01       ,Inscricao em Concursos e Processos Seletivos - Principal,50000.0
+048,201800,AA,AA  ,163001110000000,2,07       ,Servicos de Atendimento a Saude,30000.0
+048,201800,AA,AA  ,169099110000000,1,01       ,Outros Servicos,20000.0
+048,201800,AA,AA  ,171801210000000,1,01       ,Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal,44146681.24
+048,201800,AA,AA  ,171801310000000,1,01       ,COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS  - 1% CONTA ENTREGUE NO MES DE DEZEMBRO - PRINCIPAL,0.0
+048,201800,AA,AA  ,171801510000000,1,01       ,Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal,25000.0
+048,201800,AA,AA  ,171802210000000,1,01       ,Cota-Parte da Compensacao Financeira de Recursos Minerais - CFEM - Principal,1000.0
+048,201800,AA,AA  ,171802310000000,2,30       ,Cota-Parte Royalties - Compensacao Financeira pela Producao de Petroleo - Lei N  7.990/89 - Principal,50200.0
+048,201800,AA,AA  ,171802410000000,2,30       ,Cota-Parte Royalties - Pelo excedente de Producao de Petroleo - Lei N  9.478/97 artigo 49  I e II,18000.0
+048,201800,AA,AA  ,171802610000000,2,30       ,Cota-parte do Fundo Especial do Petroleo - FEP - Principal,542000.0
+048,201800,AA,AA  ,171802910000000,2,30       ,Outras Transferencias decorrentes de Compensacao Financeira,1000.0
+048,201800,AA,AA  ,171803111000000,2,09       ,Transferencia de Recursos do SUS - Piso de Atencao Basica Fixo - PAB FIXO,2217427.38
+048,201800,AA,AA  ,171803111100000,2,09       ,Transferencia de Recursos do SUS - Centro de Atencao Psicossocial - CAPS,100000.0
+048,201800,AA,AA  ,171803111200000,2,09       ,Transferencia de Recursos do SUS -  Fundo de Acoes Estrategicas e Compensacao - FAEC,40000.0
+048,201800,AA,AA  ,171803111300000,2,09       ,Transferencia de Recursos do SUS - Vigilancia Epidmiologica e Ambiental em Saude,150000.0
+048,201800,AA,AA  ,171803111400000,2,09       ,Transferencia de Recursos do SUS - Vigilancia Sanitaria,425025.14
+048,201800,AA,AA  ,171803111500000,2,09       ,Transferencia de Recursos do SUS - Piso de Atencao Basica Variavel (PAB VARIAVEL),350000.0
+048,201800,AA,AA  ,171803111600000,2,09       ,Transferencia de Recursos do SUS - Assistencia Farmaceutica,180000.0
+048,201800,AA,AA  ,171803111700000,2,09       ,Transferencia de Recursos do SUS - Qualificacao da Gestao do Sus,535000.0
+048,201800,AA,AA  ,171803111800000,2,09       ,Transferencia de Recursos do SUS - Implantacao de Acoes e Servicos de Saude,20000.0
+048,201800,AA,AA  ,171803111900000,2,09       ,Outras Transferencia de Recursos do SUS - Fundo a Fundo,2970000.0
+048,201800,AA,AA  ,171803112000000,2,09       ,Transferencia de Recursos do SUS - Saude da Familia - PSF,1410000.0
+048,201800,AA,AA  ,171803113000000,2,09       ,Transferencia de Recursos do SUS - Agentes Comunitarios de Saude - PACS,490000.0
+048,201800,AA,AA  ,171803114000000,2,09       ,Transferencia de Recursos do SUS - SAUDE BUCAL,411000.0
+048,201800,AA,AA  ,171803116000000,2,09       ,Transferencia de Recursos do SUS - Nucleo Apoio Saude Familia - NASF,350000.0
+048,201800,AA,AA  ,171803118000000,2,09       ,Transferencia de Recursos do SUS - Teto Financeiro MAC Ambulatorial e Hospitalar,27900000.0
+048,201800,AA,AA  ,171803119000000,2,09       ,Transferencia de Recursos do SUS - Centro Espec. Odontologica - CEO,184800.0
+048,201800,AA,AA  ,171804111000000,2,24       ,Transferencia de Recursos do FNAS - Protecao Social Basica,270000.0
+048,201800,AA,AA  ,171804112000000,2,24       ,Transferencia de Recursos do FNAS - Gestao do SUAS,60000.0
+048,201800,AA,AA  ,171804119000000,2,24       ,Outras Transferencias Diretas do Fundo Nacional de Assistencia Social - Fnas,915000.0
+048,201800,AA,AA  ,171805110000000,2,10       ,Transferencias do Salario-Educacao - Principal,2148033.22
+048,201800,AA,AA  ,171805210000000,2,10       ,Transferencias Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola - PDDE,50000.0
+048,201800,AA,AA  ,171805310000000,2,10       ,Transferencias Diretas do FNDE referentes ao Programa Nacional de Alimentacao Escolar - PNAE - Principal,1710000.0
+048,201800,AA,AA  ,171805410000000,2,10       ,Transferencias Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar - PNATE - Principal,931807.5
+048,201800,AA,AA  ,171805910000000,2,10       ,Outras Transferencias Diretas do Fundo Nacional do Desenvolvimento da Educacao - FNDE,357279.2
+048,201800,AA,AA  ,171806110000000,1,01       ,Transferencia Financeira do ICMS - Desoneracao - L.C. N  87/96 - Principal,24158.88
+048,201800,AA,AA  ,171810210000000,2,15       ,Transferencias de Convenios da Uniao destinadas a Programas de Educacao,610000.0
+048,201800,AA,AA  ,171810910000000,2,18       ,Outras Transferencias de Convenio da Uniao - Principal,710000.0
+048,201800,AA,AA  ,171899110000000,2,33       ,Outras Transferencias da Uniao - Principal,151000.0
+048,201800,AA,AA  ,172801110000000,1,01       ,Cota-Parte do ICMS - Principal,8110000.0
+048,201800,AA,AA  ,172801210000000,1,01       ,Cota-Parte do IPVA - Principal,4210330.0
+048,201800,AA,AA  ,172801310000000,1,01       ,Cota-Parte do IPI - Municipios - Principal,26100.0
+048,201800,AA,AA  ,172801410000000,2,11       ,Cota-Parte da Contribuicao de Intervencao no Dominio Economico - Principal,193000.0
+048,201800,AA,AA  ,172810110000000,2,09       ,Transferencia de Recursos do Estado para Programas de Saude - Repasse Fundo a Fundo - Principal,300000.0
+048,201800,AA,AA  ,172810110000000,2,20       ,Transferencia de Recursos do Estado para Programas de Saude - Repasse Fundo a Fundo - Principal,610000.0
+048,201800,AA,AA  ,172810210000000,2,19       ,Transferencias de Convenio dos Estados Destinadas a Programas de Educacao - Principal,650000.0
+048,201800,AA,AA  ,172810910000000,2,08       ,Outras Transferencias de Convenio dos Estados,925625.88
+048,201800,AA,AA  ,172810910000000,2,22       ,Outras Transferencias de Convenio dos Estados,1278487.71
+048,201800,AA,AA  ,172810910000000,2,34       ,Outras Transferencias de Convenio dos Estados,800000.0
+048,201800,AA,AA  ,175801110000000,2,13       ,Transferencias de Recursos do FUNDEB - Fundo de Manutencao e Desenvolvimento da Educacao Basica,33100000.0
+048,201800,AA,AA  ,175801210000000,2,13       ,Transferencias de Recursos do Com plementacao do FUNDEB - Fundo de Manutencao e Desenvolvimento da Educacao Basica,14000000.0
+048,201800,AA,AA  ,191001110000000,1,01       ,Multas Previstas em Legislacao Especifica - Principal,331000.0
+048,201800,AA,AA  ,192199110000000,1,01       ,Outras Indenizacoes - Principal,100000.0
+048,201800,AA,AA  ,192299110000000,1,01       ,Outras Restituicoes - Principal,200000.0
+048,201800,AA,AA  ,199099110000000,1,01       ,Outras Receitas,2500000.0
+048,201800,AA,AA  ,199099130100000,1,01       ,Receita Divida Ativa Tributaria,515000.0
+048,201800,AA,AA  ,199099130200000,1,01       ,Receita Divida Ativa Nao Tributaria,25000.0
+048,201800,AA,AA  ,211801510000000,2,31       ,Operacoes de Credito Internas para Programas de Modernizacao da Administracao Publica,300000.0
+048,201800,AA,AA  ,221300110000000,2,32       ,Alienacao de Bens Moveis,100000.0
+048,201800,AA,AA  ,222000110000000,2,32       ,Alienacao de Bens Imoveis,100000.0
+048,201800,AA,AA  ,241810110000000,2,09       ,Tansferencias de Convenio da Uniao para Sistema Unico de Saude - SUS,1800000.0
+048,201800,AA,AA  ,241810110000000,2,16       ,Tansferencias de Convenio da Uniao para Sistema Unico de Saude - SUS,900000.0
+048,201800,AA,AA  ,241810210000000,2,10       ,Transferencias de Convenio da Uniao destinadas a Programas de Educacao,500000.0
+048,201800,AA,AA  ,241810210000000,2,15       ,Transferencias de Convenio da Uniao destinadas a Programas de Educacao,500000.0
+048,201800,AA,AA  ,241810910000000,2,18       ,Outras Transferencias de Convenio da Uniao,5356000.0
+048,201800,AA,AA  ,242810110000000,2,09       ,Transferencias de Convenios dos Estados para o Sistema Unico de Saude - SUS,300000.0
+048,201800,AA,AA  ,242810110000000,2,20       ,Transferencias de Convenios dos Estados para o Sistema Unico de Saude - SUS,2249788.33
+048,201800,AA,AA  ,242810210000000,2,10       ,Transferencias de Convenios dos Estados destinadas a Programas de Educacao,300000.0
+048,201800,AA,AA  ,242810210000000,2,19       ,Transferencias de Convenios dos Estados destinadas a Programas de Educacao,1000000.0
+048,201800,AA,AA  ,242810910000000,2,22       ,Outras Transferencias de Convenio dos Estados,1200000.0
+048,201800,AA,AA  ,951718012100000,1,01       ,Deducao para a formacao do FUNDEB - Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal,-8829336.24
+048,201800,AA,AA  ,951718015100000,1,01       ,Deducao para a formacao do FUNDEB - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal,-5000.0
+048,201800,AA,AA  ,951718061100000,1,01       ,Deducao para a formacao do FUNDEB - Transferencia Financeira do ICMS   Desoneracao   L.C. N  87/96 - Principal,-4831.78
+048,201800,AA,AA  ,951728011100000,1,01       ,Deducao para a formacao do FUNDEB - Cota-Parte do ICMS - Principal,-1622000.0
+048,201800,AA,AA  ,951728012100000,1,01       ,Deducao para a formacao do FUNDEB - Cota-Parte do IPVA - Principal,-842066.0
+048,201800,AA,AA  ,951728013100000,1,01       ,Deducao para a formacao do FUNDEB - Cota-Parte do IPI - Municipios - Principal,-5220.0

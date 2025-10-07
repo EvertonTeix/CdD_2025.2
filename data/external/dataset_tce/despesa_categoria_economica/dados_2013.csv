@@ -1,0 +1,247 @@
+codigo_municipio,exercicio_orcamento,codigo_orgao,codigo_unidade,codigo_elemento_despesa,nome_elemento_despesa,valor_total_fixado
+048,201300,01,01  ,31900300,Pensoes do RPPS e do Militar,60000.0
+048,201300,01,01  ,31900400,Contratacao por Tempo Determinado,5000.0
+048,201300,01,01  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,1400000.0
+048,201300,01,01  ,31901300,Obrigacoes Patronais,300000.0
+048,201300,01,01  ,31909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,01,01  ,31909400,Indenizacoes e Restituicoes Trabalhistas,15000.0
+048,201300,01,01  ,33901400,Diarias - Civil,15000.0
+048,201300,01,01  ,33903000,Material de Consumo,20000.0
+048,201300,01,01  ,33903300,Passagens e Despesas com Locomocao,5000.0
+048,201300,01,01  ,33903500,Servicos de Consultoria,160000.0
+048,201300,01,01  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,400000.0
+048,201300,01,01  ,33903900,Outros Serv. de Terc. Pessoa Juridica,550000.0
+048,201300,01,01  ,33909200,Despesas de Exercicios Anteriores,20000.0
+048,201300,01,01  ,44905100,Obras e Instalacoes,100000.0
+048,201300,01,01  ,44905200,Equipamentos e Material Permanente,5000.0
+048,201300,01,01  ,46907100,Principal da Divida Contratual Resgatado,5000.0
+048,201300,02,02  ,31900400,Contratacao por Tempo Determinado,5000.0
+048,201300,02,02  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,550000.0
+048,201300,02,02  ,31901300,Obrigacoes Patronais,30000.0
+048,201300,02,02  ,31909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,02,02  ,33504100,Contribuicoes,2000.0
+048,201300,02,02  ,33901400,Diarias - Civil,30000.0
+048,201300,02,02  ,33903000,Material de Consumo,30000.0
+048,201300,02,02  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,60000.0
+048,201300,02,02  ,33903900,Outros Serv. de Terc. Pessoa Juridica,300000.0
+048,201300,02,02  ,33909200,Despesas de Exercicios Anteriores,38000.0
+048,201300,02,02  ,44905100,Obras e Instalacoes,5000.0
+048,201300,02,02  ,44905200,Equipamentos e Material Permanente,50000.0
+048,201300,03,03  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,10000.0
+048,201300,03,03  ,31901300,Obrigacoes Patronais,2200.0
+048,201300,03,03  ,33901400,Diarias - Civil,18000.0
+048,201300,04,04  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,220000.0
+048,201300,04,04  ,31901300,Obrigacoes Patronais,12000.0
+048,201300,04,04  ,31909100,Sentencas Judiciais,200000.0
+048,201300,04,04  ,31909200,Despesas de Exercicios Anteriores,1000.0
+048,201300,04,04  ,31909400,Indenizacoes e Restituicoes Trabalhistas,1000.0
+048,201300,04,04  ,33901400,Diarias - Civil,5000.0
+048,201300,04,04  ,33903000,Material de Consumo,5000.0
+048,201300,04,04  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,10000.0
+048,201300,04,04  ,33903900,Outros Serv. de Terc. Pessoa Juridica,20000.0
+048,201300,04,04  ,33909100,Sentencas Judiciais,5000.0
+048,201300,04,04  ,33909200,Despesas de Exercicios Anteriores,35000.0
+048,201300,04,04  ,44905200,Equipamentos e Material Permanente,2000.0
+048,201300,05,05  ,31900100,"Aposentad. RPPS, Reserva Remun. e Reform",50000.0
+048,201300,05,05  ,31900300,Pensoes do RPPS e do Militar,40000.0
+048,201300,05,05  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,721000.0
+048,201300,05,05  ,31901300,Obrigacoes Patronais,60000.0
+048,201300,05,05  ,31909200,Despesas de Exercicios Anteriores,20000.0
+048,201300,05,05  ,31909400,Indenizacoes e Restituicoes Trabalhistas,2000.0
+048,201300,05,05  ,33901400,Diarias - Civil,2000.0
+048,201300,05,05  ,33903000,Material de Consumo,20000.0
+048,201300,05,05  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,20000.0
+048,201300,05,05  ,33903900,Outros Serv. de Terc. Pessoa Juridica,50000.0
+048,201300,05,05  ,33909200,Despesas de Exercicios Anteriores,10000.0
+048,201300,05,05  ,44905200,Equipamentos e Material Permanente,5000.0
+048,201300,06,06  ,31900100,"Aposentad. RPPS, Reserva Remun. e Reform",50000.0
+048,201300,06,06  ,31900300,Pensoes do RPPS e do Militar,40000.0
+048,201300,06,06  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,800000.0
+048,201300,06,06  ,31901300,Obrigacoes Patronais,50000.0
+048,201300,06,06  ,31909200,Despesas de Exercicios Anteriores,10000.0
+048,201300,06,06  ,31909400,Indenizacoes e Restituicoes Trabalhistas,1447.11
+048,201300,06,06  ,32902100,Juros sobre a Divida por Contrato,10000.0
+048,201300,06,06  ,33901400,Diarias - Civil,5000.0
+048,201300,06,06  ,33903000,Material de Consumo,120000.0
+048,201300,06,06  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,100000.0
+048,201300,06,06  ,33903900,Outros Serv. de Terc. Pessoa Juridica,800000.0
+048,201300,06,06  ,33904700,Obrigacoes Tributarias e Contributivas,500000.0
+048,201300,06,06  ,33909200,Despesas de Exercicios Anteriores,100000.0
+048,201300,06,06  ,44905200,Equipamentos e Material Permanente,5000.0
+048,201300,06,06  ,46907100,Principal da Divida Contratual Resgatado,1400000.0
+048,201300,06,06  ,99999900,Reserva de Contingencia,1000000.0
+048,201300,07,07  ,31900400,Contratacao por Tempo Determinado,25000.0
+048,201300,07,07  ,31900800,Outros Benef.Assist.do Servidor e do Mil,40000.0
+048,201300,07,07  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,900000.0
+048,201300,07,07  ,31901300,Obrigacoes Patronais,70000.0
+048,201300,07,07  ,31909200,Despesas de Exercicios Anteriores,10000.0
+048,201300,07,07  ,31909600,Ressarcimento de Desp. de Pessoal Requis,20000.0
+048,201300,07,07  ,33901400,Diarias - Civil,20000.0
+048,201300,07,07  ,33902000,Auxilio Financeiro a Pesquisadores,10000.0
+048,201300,07,07  ,33903000,Material de Consumo,373000.0
+048,201300,07,07  ,33903100,Premiacoes Cult.Art.Cient.Desp.e Outras,5000.0
+048,201300,07,07  ,33903200,"Material, Bem ou Serv. p/ Dist. Gratuita",52000.0
+048,201300,07,07  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,706000.0
+048,201300,07,07  ,33903900,Outros Serv. de Terc. Pessoa Juridica,411000.0
+048,201300,07,07  ,33909200,Despesas de Exercicios Anteriores,100000.0
+048,201300,07,07  ,44905100,Obras e Instalacoes,155000.0
+048,201300,07,07  ,44905200,Equipamentos e Material Permanente,74000.0
+048,201300,07,07  ,44906100,Aquisicao de Imoveis,50000.0
+048,201300,08,08  ,31900400,Contratacao por Tempo Determinado,50000.0
+048,201300,08,08  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,505000.0
+048,201300,08,08  ,31901300,Obrigacoes Patronais,101000.0
+048,201300,08,08  ,31909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,08,08  ,33901400,Diarias - Civil,20000.0
+048,201300,08,08  ,33903000,Material de Consumo,1102000.0
+048,201300,08,08  ,33903200,"Material, Bem ou Serv. p/ Dist. Gratuita",1000.0
+048,201300,08,08  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,160000.0
+048,201300,08,08  ,33903900,Outros Serv. de Terc. Pessoa Juridica,2665000.0
+048,201300,08,08  ,33909200,Despesas de Exercicios Anteriores,100000.0
+048,201300,08,08  ,44905100,Obras e Instalacoes,300000.0
+048,201300,08,08  ,44905200,Equipamentos e Material Permanente,20000.0
+048,201300,09,09  ,31900400,Contratacao por Tempo Determinado,3400000.0
+048,201300,09,09  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,6490000.0
+048,201300,09,09  ,31901300,Obrigacoes Patronais,530000.0
+048,201300,09,09  ,31909200,Despesas de Exercicios Anteriores,305000.0
+048,201300,09,09  ,33733900,Outros Serv. de Terc. Pessoa Juridica,300000.0
+048,201300,09,09  ,33901400,Diarias - Civil,110000.0
+048,201300,09,09  ,33903000,Material de Consumo,285000.0
+048,201300,09,09  ,33903200,"Material, Bem ou Serv. p/ Dist. Gratuita",5000.0
+048,201300,09,09  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,165000.0
+048,201300,09,09  ,33903900,Outros Serv. de Terc. Pessoa Juridica,11089600.0
+048,201300,09,09  ,33909200,Despesas de Exercicios Anteriores,221000.0
+048,201300,09,09  ,44905100,Obras e Instalacoes,100000.0
+048,201300,09,09  ,44905200,Equipamentos e Material Permanente,97000.0
+048,201300,10,10  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,450000.0
+048,201300,10,10  ,31901300,Obrigacoes Patronais,30000.0
+048,201300,10,10  ,31909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,10,10  ,33901400,Diarias - Civil,5000.0
+048,201300,10,10  ,33901900,Auxilio Fardamento,5000.0
+048,201300,10,10  ,33903000,Material de Consumo,300000.0
+048,201300,10,10  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,200000.0
+048,201300,10,10  ,33903900,Outros Serv. de Terc. Pessoa Juridica,3550000.0
+048,201300,10,10  ,33909200,Despesas de Exercicios Anteriores,200000.0
+048,201300,10,10  ,44905100,Obras e Instalacoes,4171000.0
+048,201300,10,10  ,44905200,Equipamentos e Material Permanente,120000.0
+048,201300,11,11  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,250000.0
+048,201300,11,11  ,31901300,Obrigacoes Patronais,10000.0
+048,201300,11,11  ,31909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,11,11  ,33901400,Diarias - Civil,2000.0
+048,201300,11,11  ,33903000,Material de Consumo,50000.0
+048,201300,11,11  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,200000.0
+048,201300,11,11  ,33903900,Outros Serv. de Terc. Pessoa Juridica,450000.0
+048,201300,11,11  ,33909200,Despesas de Exercicios Anteriores,20000.0
+048,201300,11,11  ,44905100,Obras e Instalacoes,200000.0
+048,201300,11,11  ,44905200,Equipamentos e Material Permanente,100000.0
+048,201300,12,12  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,1300000.0
+048,201300,12,12  ,31901300,Obrigacoes Patronais,100000.0
+048,201300,12,12  ,31909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,12,12  ,33901400,Diarias - Civil,2000.0
+048,201300,12,12  ,33901900,Auxilio Fardamento,5000.0
+048,201300,12,12  ,33903000,Material de Consumo,100000.0
+048,201300,12,12  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,20000.0
+048,201300,12,12  ,33903900,Outros Serv. de Terc. Pessoa Juridica,60000.0
+048,201300,12,12  ,33909200,Despesas de Exercicios Anteriores,20000.0
+048,201300,12,12  ,44905200,Equipamentos e Material Permanente,10000.0
+048,201300,13,13  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,140000.0
+048,201300,13,13  ,31901300,Obrigacoes Patronais,10000.0
+048,201300,13,13  ,33901400,Diarias - Civil,2000.0
+048,201300,13,13  ,33903000,Material de Consumo,10000.0
+048,201300,13,13  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,10000.0
+048,201300,13,13  ,33903900,Outros Serv. de Terc. Pessoa Juridica,40000.0
+048,201300,13,13  ,33909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,13,13  ,44905200,Equipamentos e Material Permanente,5000.0
+048,201300,14,14  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,240000.0
+048,201300,14,14  ,31901300,Obrigacoes Patronais,20000.0
+048,201300,14,14  ,33504100,Contribuicoes,100000.0
+048,201300,14,14  ,33901400,Diarias - Civil,2000.0
+048,201300,14,14  ,33903000,Material de Consumo,80000.0
+048,201300,14,14  ,33903100,Premiacoes Cult.Art.Cient.Desp.e Outras,25000.0
+048,201300,14,14  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,120000.0
+048,201300,14,14  ,33903900,Outros Serv. de Terc. Pessoa Juridica,560000.0
+048,201300,14,14  ,33909200,Despesas de Exercicios Anteriores,22000.0
+048,201300,14,14  ,44905100,Obras e Instalacoes,150000.0
+048,201300,14,14  ,44905200,Equipamentos e Material Permanente,7000.0
+048,201300,15,15  ,31900400,Contratacao por Tempo Determinado,4000000.0
+048,201300,15,15  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,16570000.0
+048,201300,15,15  ,31901300,Obrigacoes Patronais,3520000.0
+048,201300,15,15  ,31909200,Despesas de Exercicios Anteriores,10000.0
+048,201300,15,15  ,31909400,Indenizacoes e Restituicoes Trabalhistas,5000.0
+048,201300,15,15  ,33901400,Diarias - Civil,5000.0
+048,201300,15,15  ,33903000,Material de Consumo,400000.0
+048,201300,15,15  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,60000.0
+048,201300,15,15  ,33903900,Outros Serv. de Terc. Pessoa Juridica,4080000.0
+048,201300,15,15  ,33909200,Despesas de Exercicios Anteriores,50000.0
+048,201300,15,15  ,44905100,Obras e Instalacoes,300000.0
+048,201300,15,15  ,44905200,Equipamentos e Material Permanente,100000.0
+048,201300,16,16  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,120000.0
+048,201300,16,16  ,31901300,Obrigacoes Patronais,10000.0
+048,201300,16,16  ,33901400,Diarias - Civil,5000.0
+048,201300,16,16  ,33903000,Material de Consumo,2000.0
+048,201300,16,16  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,20000.0
+048,201300,16,16  ,33903900,Outros Serv. de Terc. Pessoa Juridica,50000.0
+048,201300,16,16  ,33909200,Despesas de Exercicios Anteriores,10000.0
+048,201300,16,16  ,44905200,Equipamentos e Material Permanente,2000.0
+048,201300,17,17  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,270000.0
+048,201300,17,17  ,31901300,Obrigacoes Patronais,25000.0
+048,201300,17,17  ,33504100,Contribuicoes,100000.0
+048,201300,17,17  ,33901400,Diarias - Civil,2000.0
+048,201300,17,17  ,33903000,Material de Consumo,15000.0
+048,201300,17,17  ,33903100,Premiacoes Cult.Art.Cient.Desp.e Outras,25000.0
+048,201300,17,17  ,33903200,"Material, Bem ou Serv. p/ Dist. Gratuita",2000.0
+048,201300,17,17  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,125000.0
+048,201300,17,17  ,33903900,Outros Serv. de Terc. Pessoa Juridica,705000.0
+048,201300,17,17  ,33909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,17,17  ,44905100,Obras e Instalacoes,120000.0
+048,201300,17,17  ,44905200,Equipamentos e Material Permanente,21000.0
+048,201300,18,18  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,180000.0
+048,201300,18,18  ,31901300,Obrigacoes Patronais,10000.0
+048,201300,18,18  ,33901400,Diarias - Civil,1000.0
+048,201300,18,18  ,33903000,Material de Consumo,1000.0
+048,201300,18,18  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,5000.0
+048,201300,18,18  ,33903900,Outros Serv. de Terc. Pessoa Juridica,5000.0
+048,201300,18,18  ,44905200,Equipamentos e Material Permanente,1000.0
+048,201300,20,20  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,200000.0
+048,201300,20,20  ,31901300,Obrigacoes Patronais,20000.0
+048,201300,20,20  ,33901400,Diarias - Civil,5000.0
+048,201300,20,20  ,33903000,Material de Consumo,40000.0
+048,201300,20,20  ,33903200,"Material, Bem ou Serv. p/ Dist. Gratuita",5000.0
+048,201300,20,20  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,50000.0
+048,201300,20,20  ,33903900,Outros Serv. de Terc. Pessoa Juridica,100000.0
+048,201300,20,20  ,44905100,Obras e Instalacoes,10000.0
+048,201300,20,20  ,44905200,Equipamentos e Material Permanente,25000.0
+048,201300,21,21  ,33903000,Material de Consumo,262000.0
+048,201300,21,21  ,33903200,"Material, Bem ou Serv. p/ Dist. Gratuita",5000.0
+048,201300,21,21  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,161000.0
+048,201300,21,21  ,33903900,Outros Serv. de Terc. Pessoa Juridica,47000.0
+048,201300,21,21  ,33909200,Despesas de Exercicios Anteriores,6000.0
+048,201300,21,21  ,44905200,Equipamentos e Material Permanente,2000.0
+048,201300,22,22  ,33903000,Material de Consumo,1000.0
+048,201300,22,22  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,10000.0
+048,201300,22,22  ,33903900,Outros Serv. de Terc. Pessoa Juridica,1000.0
+048,201300,22,22  ,44905200,Equipamentos e Material Permanente,1000.0
+048,201300,23,23  ,33903000,Material de Consumo,5000.0
+048,201300,23,23  ,33903200,"Material, Bem ou Serv. p/ Dist. Gratuita",1000.0
+048,201300,23,23  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,60000.0
+048,201300,23,23  ,33903900,Outros Serv. de Terc. Pessoa Juridica,20000.0
+048,201300,23,23  ,44905100,Obras e Instalacoes,230000.0
+048,201300,23,23  ,44905200,Equipamentos e Material Permanente,1000.0
+048,201300,24,24  ,33903000,Material de Consumo,10000.0
+048,201300,24,24  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,10000.0
+048,201300,24,24  ,33903900,Outros Serv. de Terc. Pessoa Juridica,10000.0
+048,201300,24,24  ,44905200,Equipamentos e Material Permanente,5000.0
+048,201300,25,25  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,10000.0
+048,201300,25,25  ,31901300,Obrigacoes Patronais,2000.0
+048,201300,25,25  ,33901400,Diarias - Civil,1000.0
+048,201300,25,25  ,33903000,Material de Consumo,2000.0
+048,201300,25,25  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,5000.0
+048,201300,25,25  ,33903900,Outros Serv. de Terc. Pessoa Juridica,75000.0
+048,201300,25,25  ,44905100,Obras e Instalacoes,5000.0
+048,201300,26,26  ,31901100,Vencimentos e Vant. Fixas Pessoal Civil,134836.26
+048,201300,26,26  ,31901300,Obrigacoes Patronais,10000.0
+048,201300,26,26  ,33901400,Diarias - Civil,1958.43
+048,201300,26,26  ,33903000,Material de Consumo,10000.0
+048,201300,26,26  ,33903600,Outros Serv. de Terceiros Pessoa Fisica,10000.0
+048,201300,26,26  ,33903900,Outros Serv. de Terc. Pessoa Juridica,40000.0
+048,201300,26,26  ,33909200,Despesas de Exercicios Anteriores,5000.0
+048,201300,26,26  ,44905200,Equipamentos e Material Permanente,5000.0

@@ -1,0 +1,573 @@
+codigo_municipio,exercicio_orcamento,codigo_orgao,codigo_unidade,codigo_elemento_despesa,nome_elemento_despesa,valor_total_fixado
+048,202200,01,01  ,31900300,Pensoes,150000
+048,202200,01,01  ,31900400,Contratacao por Tempo Determinado,5000
+048,202200,01,01  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,3050000
+048,202200,01,01  ,31901300,Obrigacoes Patronais,635000
+048,202200,01,01  ,31909200,Despesas de Exercicios Anteriores,1000
+048,202200,01,01  ,31909400,Indenizacoes Restituicoes Trabalhistas,3000
+048,202200,01,01  ,33901400,Diarias - Pessoal Civil,25000
+048,202200,01,01  ,33903000,Material de Consumo,35000
+048,202200,01,01  ,33903300,Passagens e Despesas com Locomocao,5000
+048,202200,01,01  ,33903500,Servicos de Consultoria,10000
+048,202200,01,01  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,65000
+048,202200,01,01  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,835000
+048,202200,01,01  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,15000
+048,202200,01,01  ,33909200,Despesas de Exercicios Anteriores,2500
+048,202200,01,01  ,44905100,Obras e Instalacoes,20000
+048,202200,01,01  ,44905200,Equipamentos e Material Permanente,30000
+048,202200,01,01  ,46907100,Principal da Divida Contratual Resgatado,1000
+048,202200,02,02  ,31900400,Contratacao por Tempo Determinado,5000
+048,202200,02,02  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,955000
+048,202200,02,02  ,31901300,Obrigacoes Patronais,192000
+048,202200,02,02  ,31909100,Sentencas Judiciais,10000
+048,202200,02,02  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,02,02  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,02,02  ,33504100,Contribuicoes,10000
+048,202200,02,02  ,33504200,Auxilios,10000
+048,202200,02,02  ,33504300,Subvencoes Sociais,10000
+048,202200,02,02  ,33901400,Diarias - Pessoal Civil,20000
+048,202200,02,02  ,33903000,Material de Consumo,30000
+048,202200,02,02  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,10000
+048,202200,02,02  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,500000
+048,202200,02,02  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,10000
+048,202200,02,02  ,33909100,Sentencas Judiciais,10000
+048,202200,02,02  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,02,02  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,02,02  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,02,02  ,44906100,Aquisicao de Imoveis,10000
+048,202200,04,04  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,04,04  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,590000
+048,202200,04,04  ,31901300,Obrigacoes Patronais,120000
+048,202200,04,04  ,31909100,Sentencas Judiciais,3000000
+048,202200,04,04  ,31909200,Despesas de Exercicios Anteriores,5000
+048,202200,04,04  ,31909400,Indenizacoes Restituicoes Trabalhistas,5000
+048,202200,04,04  ,33504100,Contribuicoes,5000
+048,202200,04,04  ,33504200,Auxilios,5000
+048,202200,04,04  ,33504300,Subvencoes Sociais,5000
+048,202200,04,04  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,04,04  ,33903000,Material de Consumo,15000
+048,202200,04,04  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,20000
+048,202200,04,04  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,130000
+048,202200,04,04  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,04,04  ,33909100,Sentencas Judiciais,10000
+048,202200,04,04  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,04,04  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,04,04  ,44905200,Equipamentos e Material Permanente,10000
+048,202200,04,04  ,44906100,Aquisicao de Imoveis,5000
+048,202200,07,07  ,31900400,Contratacao por Tempo Determinado,680000
+048,202200,07,07  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,755000
+048,202200,07,07  ,31901300,Obrigacoes Patronais,287000
+048,202200,07,07  ,31909100,Sentencas Judiciais,10000
+048,202200,07,07  ,31909200,Despesas de Exercicios Anteriores,5000
+048,202200,07,07  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,07,07  ,31909600,Ressarcimento de Despesas de Pessoal Requisitado,10000
+048,202200,07,07  ,33901400,Diarias - Pessoal Civil,179000
+048,202200,07,07  ,33903000,Material de Consumo,579000
+048,202200,07,07  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,285000
+048,202200,07,07  ,33903300,Passagens e Despesas com Locomocao,15000
+048,202200,07,07  ,33903400,Outras Despesas de Pessoal decorr. de Contratos de Terceirizacao,10000
+048,202200,07,07  ,33903500,Servicos de Consultoria,10000
+048,202200,07,07  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,401000
+048,202200,07,07  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,990000
+048,202200,07,07  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,30000
+048,202200,07,07  ,33904700,Obrigacoes Tributarias e Contributivas,20000
+048,202200,07,07  ,33904800,Outros Auxilios Financeiros a Pessoas Fisicas,250000
+048,202200,07,07  ,33909100,Sentencas Judiciais,15000
+048,202200,07,07  ,33909200,Despesas de Exercicios Anteriores,105000
+048,202200,07,07  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,07,07  ,44905100,Obras e Instalacoes,750000
+048,202200,07,07  ,44905200,Equipamentos e Material Permanente,339000
+048,202200,07,07  ,44906100,Aquisicao de Imoveis,15000
+048,202200,08,08  ,31900400,Contratacao por Tempo Determinado,60000
+048,202200,08,08  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,150000
+048,202200,08,08  ,31901300,Obrigacoes Patronais,45000
+048,202200,08,08  ,31909100,Sentencas Judiciais,200000
+048,202200,08,08  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,08,08  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,08,08  ,33504100,Contribuicoes,10000
+048,202200,08,08  ,33504200,Auxilios,10000
+048,202200,08,08  ,33504300,Subvencoes Sociais,10000
+048,202200,08,08  ,33901400,Diarias - Pessoal Civil,60000
+048,202200,08,08  ,33903000,Material de Consumo,3570000
+048,202200,08,08  ,33903100,Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras,10000
+048,202200,08,08  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,10000
+048,202200,08,08  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,260000
+048,202200,08,08  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,2815000
+048,202200,08,08  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,08,08  ,33909100,Sentencas Judiciais,10000
+048,202200,08,08  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,08,08  ,33909300,Indenizacoes e Restituicoes,50000
+048,202200,08,08  ,44905100,Obras e Instalacoes,900000
+048,202200,08,08  ,44905200,Equipamentos e Material Permanente,390000
+048,202200,08,08  ,44906100,Aquisicao de Imoveis,40000
+048,202200,09,09  ,31900400,Contratacao por Tempo Determinado,1050000
+048,202200,09,09  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,9385000
+048,202200,09,09  ,31901300,Obrigacoes Patronais,2087000
+048,202200,09,09  ,31909100,Sentencas Judiciais,50000
+048,202200,09,09  ,31909200,Despesas de Exercicios Anteriores,5000
+048,202200,09,09  ,31909600,Ressarcimento de Despesas de Pessoal Requisitado,5000
+048,202200,09,09  ,33504100,Contribuicoes,30000000
+048,202200,09,09  ,33717000,Rateio pela Participacao em Consorcios Publicos,1000000
+048,202200,09,09  ,33901400,Diarias - Pessoal Civil,95000
+048,202200,09,09  ,33903000,Material de Consumo,950000
+048,202200,09,09  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,10000
+048,202200,09,09  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,130000
+048,202200,09,09  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,9715000
+048,202200,09,09  ,33904800,Outros Auxilios Financeiros a Pessoas Fisicas,120000
+048,202200,09,09  ,33909100,Sentencas Judiciais,10000
+048,202200,09,09  ,33909200,Despesas de Exercicios Anteriores,60000
+048,202200,09,09  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,09,09  ,44905100,Obras e Instalacoes,1000000
+048,202200,09,09  ,44905200,Equipamentos e Material Permanente,345000
+048,202200,09,09  ,44906100,Aquisicao de Imoveis,5000
+048,202200,10,10  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,10,10  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,2990000
+048,202200,10,10  ,31901300,Obrigacoes Patronais,600000
+048,202200,10,10  ,31909100,Sentencas Judiciais,10000
+048,202200,10,10  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,10,10  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,10,10  ,31909600,Ressarcimento de Despesas de Pessoal Requisitado,10000
+048,202200,10,10  ,33504100,Contribuicoes,10000
+048,202200,10,10  ,33504200,Auxilios,10000
+048,202200,10,10  ,33504300,Subvencoes Sociais,10000
+048,202200,10,10  ,33901400,Diarias - Pessoal Civil,15000
+048,202200,10,10  ,33903000,Material de Consumo,520000
+048,202200,10,10  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,85000
+048,202200,10,10  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,7800000
+048,202200,10,10  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,40000
+048,202200,10,10  ,33904700,Obrigacoes Tributarias e Contributivas,10000
+048,202200,10,10  ,33909100,Sentencas Judiciais,20000
+048,202200,10,10  ,33909200,Despesas de Exercicios Anteriores,20000
+048,202200,10,10  ,33909300,Indenizacoes e Restituicoes,20000
+048,202200,10,10  ,44905100,Obras e Instalacoes,4450000
+048,202200,10,10  ,44905200,Equipamentos e Material Permanente,140000
+048,202200,10,10  ,44906100,Aquisicao de Imoveis,7000
+048,202200,11,11  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,11,11  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,320000
+048,202200,11,11  ,31901300,Obrigacoes Patronais,66000
+048,202200,11,11  ,31909100,Sentencas Judiciais,10000
+048,202200,11,11  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,11,11  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,11,11  ,33504100,Contribuicoes,10000
+048,202200,11,11  ,33504200,Auxilios,10000
+048,202200,11,11  ,33504300,Subvencoes Sociais,10000
+048,202200,11,11  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,11,11  ,33903000,Material de Consumo,70000
+048,202200,11,11  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,50000
+048,202200,11,11  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,430000
+048,202200,11,11  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,30000
+048,202200,11,11  ,33909100,Sentencas Judiciais,10000
+048,202200,11,11  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,11,11  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,11,11  ,44905100,Obras e Instalacoes,190000
+048,202200,11,11  ,44905200,Equipamentos e Material Permanente,75000
+048,202200,11,11  ,44906100,Aquisicao de Imoveis,5000
+048,202200,15,15  ,31900400,Contratacao por Tempo Determinado,5170000
+048,202200,15,15  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,41480000
+048,202200,15,15  ,31901300,Obrigacoes Patronais,9330000
+048,202200,15,15  ,33901400,Diarias - Pessoal Civil,25000
+048,202200,15,15  ,33903000,Material de Consumo,1200000
+048,202200,15,15  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,300000
+048,202200,15,15  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,3100000
+048,202200,15,15  ,33904700,Obrigacoes Tributarias e Contributivas,25000
+048,202200,15,15  ,44905100,Obras e Instalacoes,300000
+048,202200,15,15  ,44905200,Equipamentos e Material Permanente,70000
+048,202200,16,16  ,31900400,Contratacao por Tempo Determinado,25000
+048,202200,16,16  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,25000
+048,202200,16,16  ,31901300,Obrigacoes Patronais,10000
+048,202200,16,16  ,31909100,Sentencas Judiciais,10000
+048,202200,16,16  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,16,16  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,16,16  ,33504100,Contribuicoes,5000
+048,202200,16,16  ,33504200,Auxilios,5000
+048,202200,16,16  ,33504300,Subvencoes Sociais,5000
+048,202200,16,16  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,16,16  ,33903000,Material de Consumo,25000
+048,202200,16,16  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,15000
+048,202200,16,16  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,25000
+048,202200,16,16  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,16,16  ,33909100,Sentencas Judiciais,10000
+048,202200,16,16  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,16,16  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,16,16  ,44905200,Equipamentos e Material Permanente,10000
+048,202200,16,16  ,44906100,Aquisicao de Imoveis,5000
+048,202200,20,20  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,20,20  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,490000
+048,202200,20,20  ,31901300,Obrigacoes Patronais,100000
+048,202200,20,20  ,31909100,Sentencas Judiciais,10000
+048,202200,20,20  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,20,20  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,20,20  ,33504100,Contribuicoes,10000
+048,202200,20,20  ,33504200,Auxilios,10000
+048,202200,20,20  ,33504300,Subvencoes Sociais,10000
+048,202200,20,20  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,20,20  ,33903000,Material de Consumo,80000
+048,202200,20,20  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,40000
+048,202200,20,20  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,650000
+048,202200,20,20  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,15000
+048,202200,20,20  ,33909100,Sentencas Judiciais,10000
+048,202200,20,20  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,20,20  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,20,20  ,44905200,Equipamentos e Material Permanente,50000
+048,202200,20,20  ,44906100,Aquisicao de Imoveis,5000
+048,202200,21,21  ,33504100,Contribuicoes,20000
+048,202200,21,21  ,33504300,Subvencoes Sociais,20000
+048,202200,21,21  ,33903000,Material de Consumo,15000
+048,202200,21,21  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,15000
+048,202200,21,21  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,15000
+048,202200,21,21  ,44504200,Auxilios,20000
+048,202200,21,21  ,44905200,Equipamentos e Material Permanente,10000
+048,202200,22,22  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,22,22  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,5000
+048,202200,22,22  ,31901300,Obrigacoes Patronais,3000
+048,202200,22,22  ,33903000,Material de Consumo,15000
+048,202200,22,22  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,15000
+048,202200,22,22  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,15000
+048,202200,22,22  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,22,22  ,44905200,Equipamentos e Material Permanente,5000
+048,202200,23,23  ,31900400,Contratacao por Tempo Determinado,35000
+048,202200,23,23  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,45000
+048,202200,23,23  ,31901300,Obrigacoes Patronais,16000
+048,202200,23,23  ,31909100,Sentencas Judiciais,10000
+048,202200,23,23  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,23,23  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,23,23  ,33504100,Contribuicoes,5000
+048,202200,23,23  ,33504200,Auxilios,5000
+048,202200,23,23  ,33504300,Subvencoes Sociais,5000
+048,202200,23,23  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,23,23  ,33903000,Material de Consumo,40000
+048,202200,23,23  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,20000
+048,202200,23,23  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,45000
+048,202200,23,23  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,50000
+048,202200,23,23  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,10000
+048,202200,23,23  ,33904800,Outros Auxilios Financeiros a Pessoas Fisicas,5000
+048,202200,23,23  ,33909100,Sentencas Judiciais,10000
+048,202200,23,23  ,33909200,Despesas de Exercicios Anteriores,15000
+048,202200,23,23  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,23,23  ,44905100,Obras e Instalacoes,300000
+048,202200,23,23  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,23,23  ,44906100,Aquisicao de Imoveis,10000
+048,202200,24,24  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,24,24  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,20000
+048,202200,24,24  ,31901300,Obrigacoes Patronais,6000
+048,202200,24,24  ,33903000,Material de Consumo,10000
+048,202200,24,24  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,10000
+048,202200,24,24  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,10000
+048,202200,24,24  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,24,24  ,44905200,Equipamentos e Material Permanente,15000
+048,202200,25,25  ,31900400,Contratacao por Tempo Determinado,5000
+048,202200,25,25  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,15000
+048,202200,25,25  ,31901300,Obrigacoes Patronais,3000
+048,202200,25,25  ,33504100,Contribuicoes,12000
+048,202200,25,25  ,33504300,Subvencoes Sociais,5000
+048,202200,25,25  ,33903000,Material de Consumo,10000
+048,202200,25,25  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,10000
+048,202200,25,25  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,5000
+048,202200,25,25  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,10000
+048,202200,25,25  ,33904700,Obrigacoes Tributarias e Contributivas,5000
+048,202200,25,25  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,25,25  ,44504200,Auxilios,5000
+048,202200,25,25  ,44905200,Equipamentos e Material Permanente,5000
+048,202200,27,27  ,33717000,Rateio pela Participacao em Consorcios Publicos,100000
+048,202200,27,27  ,33903000,Material de Consumo,15000
+048,202200,27,27  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,15000
+048,202200,27,27  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,20000
+048,202200,27,27  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,70000
+048,202200,27,27  ,44717000,Rateio pela Participacao em Consorcios Publicos,50000
+048,202200,27,27  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,28,28  ,31900400,Contratacao por Tempo Determinado,20000
+048,202200,28,28  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,1900000
+048,202200,28,28  ,31901300,Obrigacoes Patronais,364000
+048,202200,28,28  ,31909100,Sentencas Judiciais,10000
+048,202200,28,28  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,28,28  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,28,28  ,31909600,Ressarcimento de Despesas de Pessoal Requisitado,10000
+048,202200,28,28  ,33504100,Contribuicoes,10000
+048,202200,28,28  ,33504200,Auxilios,10000
+048,202200,28,28  ,33504300,Subvencoes Sociais,10000
+048,202200,28,28  ,33901400,Diarias - Pessoal Civil,30000
+048,202200,28,28  ,33903000,Material de Consumo,60000
+048,202200,28,28  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,10000
+048,202200,28,28  ,33903300,Passagens e Despesas com Locomocao,10000
+048,202200,28,28  ,33903400,Outras Despesas de Pessoal decorr. de Contratos de Terceirizacao,10000
+048,202200,28,28  ,33903500,Servicos de Consultoria,10000
+048,202200,28,28  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,40000
+048,202200,28,28  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,530000
+048,202200,28,28  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,10000
+048,202200,28,28  ,33904700,Obrigacoes Tributarias e Contributivas,10000
+048,202200,28,28  ,33904800,Outros Auxilios Financeiros a Pessoas Fisicas,10000
+048,202200,28,28  ,33909100,Sentencas Judiciais,20000
+048,202200,28,28  ,33909200,Despesas de Exercicios Anteriores,25000
+048,202200,28,28  ,33909300,Indenizacoes e Restituicoes,20000
+048,202200,28,28  ,44905200,Equipamentos e Material Permanente,60000
+048,202200,28,28  ,44906100,Aquisicao de Imoveis,25000
+048,202200,30,30  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,30,30  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,240000
+048,202200,30,30  ,31901300,Obrigacoes Patronais,50000
+048,202200,30,30  ,31909100,Sentencas Judiciais,10000
+048,202200,30,30  ,31909200,Despesas de Exercicios Anteriores,5000
+048,202200,30,30  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,30,30  ,33504100,Contribuicoes,5000
+048,202200,30,30  ,33504200,Auxilios,5000
+048,202200,30,30  ,33504300,Subvencoes Sociais,5000
+048,202200,30,30  ,33901400,Diarias - Pessoal Civil,5000
+048,202200,30,30  ,33903000,Material de Consumo,10000
+048,202200,30,30  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,5000
+048,202200,30,30  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,20000
+048,202200,30,30  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,30,30  ,33909100,Sentencas Judiciais,10000
+048,202200,30,30  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,30,30  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,30,30  ,44905200,Equipamentos e Material Permanente,10000
+048,202200,30,30  ,44906100,Aquisicao de Imoveis,5000
+048,202200,31,31  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,31,31  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,1490000
+048,202200,31,31  ,31901300,Obrigacoes Patronais,300000
+048,202200,31,31  ,31909100,Sentencas Judiciais,10000
+048,202200,31,31  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,31,31  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,31,31  ,31909600,Ressarcimento de Despesas de Pessoal Requisitado,20000
+048,202200,31,31  ,33504100,Contribuicoes,5000
+048,202200,31,31  ,33504200,Auxilios,5000
+048,202200,31,31  ,33504300,Subvencoes Sociais,5000
+048,202200,31,31  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,31,31  ,33903000,Material de Consumo,30000
+048,202200,31,31  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,20000
+048,202200,31,31  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,515000
+048,202200,31,31  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,31,31  ,33909100,Sentencas Judiciais,10000
+048,202200,31,31  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,31,31  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,31,31  ,44905200,Equipamentos e Material Permanente,25000
+048,202200,31,31  ,44906100,Aquisicao de Imoveis,5000
+048,202200,32,32  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,32,32  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,440000
+048,202200,32,32  ,31901300,Obrigacoes Patronais,90000
+048,202200,32,32  ,31909100,Sentencas Judiciais,20000
+048,202200,32,32  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,32,32  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,32,32  ,33504100,Contribuicoes,10000
+048,202200,32,32  ,33504200,Auxilios,10000
+048,202200,32,32  ,33504300,Subvencoes Sociais,10000
+048,202200,32,32  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,32,32  ,33903000,Material de Consumo,43000
+048,202200,32,32  ,33903100,Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras,25000
+048,202200,32,32  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,89000
+048,202200,32,32  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,545000
+048,202200,32,32  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,32,32  ,33909100,Sentencas Judiciais,10000
+048,202200,32,32  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,32,32  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,32,32  ,44905100,Obras e Instalacoes,150000
+048,202200,32,32  ,44905200,Equipamentos e Material Permanente,22000
+048,202200,32,32  ,44906100,Aquisicao de Imoveis,5000
+048,202200,34,34  ,31900400,Contratacao por Tempo Determinado,50000
+048,202200,34,34  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,2350000
+048,202200,34,34  ,31901300,Obrigacoes Patronais,480000
+048,202200,34,34  ,31909100,Sentencas Judiciais,50000
+048,202200,34,34  ,31909200,Despesas de Exercicios Anteriores,50000
+048,202200,34,34  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,34,34  ,31909600,Ressarcimento de Despesas de Pessoal Requisitado,10000
+048,202200,34,34  ,32902100,Juros sobre a Divida por Contrato,5000
+048,202200,34,34  ,33504100,Contribuicoes,10000
+048,202200,34,34  ,33504200,Auxilios,10000
+048,202200,34,34  ,33504300,Subvencoes Sociais,10000
+048,202200,34,34  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,34,34  ,33903000,Material de Consumo,100000
+048,202200,34,34  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,200000
+048,202200,34,34  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,1200000
+048,202200,34,34  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,40000
+048,202200,34,34  ,33904700,Obrigacoes Tributarias e Contributivas,550000
+048,202200,34,34  ,33909100,Sentencas Judiciais,40000
+048,202200,34,34  ,33909200,Despesas de Exercicios Anteriores,50000
+048,202200,34,34  ,33909300,Indenizacoes e Restituicoes,50000
+048,202200,34,34  ,44905200,Equipamentos e Material Permanente,60000
+048,202200,34,34  ,44906100,Aquisicao de Imoveis,10000
+048,202200,34,34  ,46907100,Principal da Divida Contratual Resgatado,4995000
+048,202200,34,34  ,99999900,Reserva de Contingencia,2589500
+048,202200,35,35  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,35,35  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,40000
+048,202200,35,35  ,31901300,Obrigacoes Patronais,10000
+048,202200,35,35  ,31909100,Sentencas Judiciais,5000
+048,202200,35,35  ,31909200,Despesas de Exercicios Anteriores,5000
+048,202200,35,35  ,31909400,Indenizacoes Restituicoes Trabalhistas,5000
+048,202200,35,35  ,33504100,Contribuicoes,5000
+048,202200,35,35  ,33504200,Auxilios,10000
+048,202200,35,35  ,33504300,Subvencoes Sociais,5000
+048,202200,35,35  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,35,35  ,33903000,Material de Consumo,31000
+048,202200,35,35  ,33903100,Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras,10000
+048,202200,35,35  ,33903300,Passagens e Despesas com Locomocao,2000
+048,202200,35,35  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,148000
+048,202200,35,35  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,132000
+048,202200,35,35  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,35,35  ,33909100,Sentencas Judiciais,5000
+048,202200,35,35  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,35,35  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,35,35  ,44905100,Obras e Instalacoes,50000
+048,202200,35,35  ,44905200,Equipamentos e Material Permanente,45000
+048,202200,35,35  ,44906100,Aquisicao de Imoveis,5000
+048,202200,36,36  ,31900400,Contratacao por Tempo Determinado,100000
+048,202200,36,36  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,1900000
+048,202200,36,36  ,31901300,Obrigacoes Patronais,400000
+048,202200,36,36  ,31909100,Sentencas Judiciais,10000
+048,202200,36,36  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,36,36  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,36,36  ,33504100,Contribuicoes,10000
+048,202200,36,36  ,33504200,Auxilios,10000
+048,202200,36,36  ,33504300,Subvencoes Sociais,10000
+048,202200,36,36  ,33901400,Diarias - Pessoal Civil,20000
+048,202200,36,36  ,33903000,Material de Consumo,30000
+048,202200,36,36  ,33903100,Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras,25000
+048,202200,36,36  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,20000
+048,202200,36,36  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,20000
+048,202200,36,36  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,100000
+048,202200,36,36  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,10000
+048,202200,36,36  ,33909100,Sentencas Judiciais,10000
+048,202200,36,36  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,36,36  ,33909300,Indenizacoes e Restituicoes,60000
+048,202200,36,36  ,44905100,Obras e Instalacoes,50000
+048,202200,36,36  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,36,36  ,44906100,Aquisicao de Imoveis,25000
+048,202200,37,37  ,31900400,Contratacao por Tempo Determinado,50000
+048,202200,37,37  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,1550000
+048,202200,37,37  ,31901300,Obrigacoes Patronais,320000
+048,202200,37,37  ,31909100,Sentencas Judiciais,10000
+048,202200,37,37  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,37,37  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,37,37  ,31909600,Ressarcimento de Despesas de Pessoal Requisitado,10000
+048,202200,37,37  ,33504100,Contribuicoes,10000
+048,202200,37,37  ,33504200,Auxilios,10000
+048,202200,37,37  ,33504300,Subvencoes Sociais,10000
+048,202200,37,37  ,33901400,Diarias - Pessoal Civil,50000
+048,202200,37,37  ,33903000,Material de Consumo,150000
+048,202200,37,37  ,33903200,Material  Bem ou Servico para Distribuicao Gratuita,50000
+048,202200,37,37  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,30000
+048,202200,37,37  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,1700000
+048,202200,37,37  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,37,37  ,33904800,Outros Auxilios Financeiros a Pessoas Fisicas,200000
+048,202200,37,37  ,33909100,Sentencas Judiciais,30000
+048,202200,37,37  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,37,37  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,37,37  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,37,37  ,44906100,Aquisicao de Imoveis,4000
+048,202200,39,39  ,31900400,Contratacao por Tempo Determinado,5000
+048,202200,39,39  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,265000
+048,202200,39,39  ,31901300,Obrigacoes Patronais,54000
+048,202200,39,39  ,31909100,Sentencas Judiciais,5000
+048,202200,39,39  ,31909200,Despesas de Exercicios Anteriores,5000
+048,202200,39,39  ,31909400,Indenizacoes Restituicoes Trabalhistas,5000
+048,202200,39,39  ,33504100,Contribuicoes,5000
+048,202200,39,39  ,33504200,Auxilios,5000
+048,202200,39,39  ,33504300,Subvencoes Sociais,5000
+048,202200,39,39  ,33901400,Diarias - Pessoal Civil,5000
+048,202200,39,39  ,33903000,Material de Consumo,10000
+048,202200,39,39  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,10000
+048,202200,39,39  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,665000
+048,202200,39,39  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,39,39  ,33909100,Sentencas Judiciais,5000
+048,202200,39,39  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,39,39  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,39,39  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,40,40  ,31900400,Contratacao por Tempo Determinado,5000
+048,202200,40,40  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,395000
+048,202200,40,40  ,31901300,Obrigacoes Patronais,80000
+048,202200,40,40  ,31909100,Sentencas Judiciais,10000
+048,202200,40,40  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,40,40  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,40,40  ,33504100,Contribuicoes,30000
+048,202200,40,40  ,33504200,Auxilios,10000
+048,202200,40,40  ,33504300,Subvencoes Sociais,10000
+048,202200,40,40  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,40,40  ,33903000,Material de Consumo,80000
+048,202200,40,40  ,33903100,Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras,30000
+048,202200,40,40  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,35000
+048,202200,40,40  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,450000
+048,202200,40,40  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,40,40  ,33909100,Sentencas Judiciais,10000
+048,202200,40,40  ,33909200,Despesas de Exercicios Anteriores,15000
+048,202200,40,40  ,33909300,Indenizacoes e Restituicoes,125000
+048,202200,40,40  ,44304200,Auxilios,200000
+048,202200,40,40  ,44905100,Obras e Instalacoes,400000
+048,202200,40,40  ,44905200,Equipamentos e Material Permanente,40000
+048,202200,40,40  ,44906100,Aquisicao de Imoveis,5000
+048,202200,41,41  ,31900400,Contratacao por Tempo Determinado,5000
+048,202200,41,41  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,115000
+048,202200,41,41  ,31901300,Obrigacoes Patronais,60000
+048,202200,41,41  ,33901400,Diarias - Pessoal Civil,5000
+048,202200,41,41  ,33903000,Material de Consumo,15000
+048,202200,41,41  ,33903100,Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras,10000
+048,202200,41,41  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,15000
+048,202200,41,41  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,115000
+048,202200,41,41  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,41,41  ,44905200,Equipamentos e Material Permanente,25000
+048,202200,42,42  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,42,42  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,190000
+048,202200,42,42  ,31901300,Obrigacoes Patronais,40000
+048,202200,42,42  ,31909100,Sentencas Judiciais,10000
+048,202200,42,42  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,42,42  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,42,42  ,33504100,Contribuicoes,5000
+048,202200,42,42  ,33504200,Auxilios,5000
+048,202200,42,42  ,33504300,Subvencoes Sociais,5000
+048,202200,42,42  ,33901400,Diarias - Pessoal Civil,5000
+048,202200,42,42  ,33903000,Material de Consumo,20000
+048,202200,42,42  ,33903100,Premiacoes Culturais  Artisticas  Cientificas  Desportivas e Outras,5000
+048,202200,42,42  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,20000
+048,202200,42,42  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,150000
+048,202200,42,42  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,5000
+048,202200,42,42  ,33909100,Sentencas Judiciais,5000
+048,202200,42,42  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,42,42  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,42,42  ,33909400,Indenizacoes e Restituicoes Trabalhistas,5000
+048,202200,42,42  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,42,42  ,44906100,Aquisicao de Imoveis,5000
+048,202200,43,45  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,43,45  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,3990000
+048,202200,43,45  ,31901300,Obrigacoes Patronais,800000
+048,202200,43,45  ,31909100,Sentencas Judiciais,10000
+048,202200,43,45  ,31909200,Despesas de Exercicios Anteriores,10000
+048,202200,43,45  ,31909400,Indenizacoes Restituicoes Trabalhistas,10000
+048,202200,43,45  ,33504100,Contribuicoes,10000
+048,202200,43,45  ,33504200,Auxilios,10000
+048,202200,43,45  ,33504300,Subvencoes Sociais,10000
+048,202200,43,45  ,33901400,Diarias - Pessoal Civil,10000
+048,202200,43,45  ,33901900,Auxilio-Fardamento,10000
+048,202200,43,45  ,33903000,Material de Consumo,40000
+048,202200,43,45  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,20000
+048,202200,43,45  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,200000
+048,202200,43,45  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,10000
+048,202200,43,45  ,33909200,Despesas de Exercicios Anteriores,10000
+048,202200,43,45  ,33909300,Indenizacoes e Restituicoes,10000
+048,202200,43,45  ,44905200,Equipamentos e Material Permanente,100000
+048,202200,43,45  ,44906100,Aquisicao de Imoveis,5000
+048,202200,44,44  ,31900400,Contratacao por Tempo Determinado,5000
+048,202200,44,44  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,235000
+048,202200,44,44  ,31901300,Obrigacoes Patronais,48000
+048,202200,44,44  ,31909100,Sentencas Judiciais,5000
+048,202200,44,44  ,31909200,Despesas de Exercicios Anteriores,5000
+048,202200,44,44  ,31909400,Indenizacoes Restituicoes Trabalhistas,5000
+048,202200,44,44  ,33504100,Contribuicoes,5000
+048,202200,44,44  ,33504200,Auxilios,5000
+048,202200,44,44  ,33504300,Subvencoes Sociais,5000
+048,202200,44,44  ,33903000,Material de Consumo,20000
+048,202200,44,44  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,10000
+048,202200,44,44  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,400000
+048,202200,44,44  ,33904000,Servicos de Tecnologia da Informacao e Comunicacao - PJ,10000
+048,202200,44,44  ,33909100,Sentencas Judiciais,5000
+048,202200,44,44  ,33909200,Despesas de Exercicios Anteriores,5000
+048,202200,44,44  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,44,44  ,44905100,Obras e Instalacoes,200000
+048,202200,44,44  ,44905200,Equipamentos e Material Permanente,20000
+048,202200,44,44  ,44906100,Aquisicao de Imoveis,5000
+048,202200,44,46  ,31900400,Contratacao por Tempo Determinado,10000
+048,202200,44,46  ,31901100,Vencimentos e Vantagens Fixas - Pessoal Civil,10000
+048,202200,44,46  ,31901300,Obrigacoes Patronais,4000
+048,202200,44,46  ,33901400,Diarias - Pessoal Civil,5000
+048,202200,44,46  ,33903000,Material de Consumo,10000
+048,202200,44,46  ,33903600,Outros Servicos de Terceiros - Pessoa Fisica,10000
+048,202200,44,46  ,33903900,Outros Servicos de Terceiros - Pessoa Juridica,50000
+048,202200,44,46  ,33904700,Obrigacoes Tributarias e Contributivas,5000
+048,202200,44,46  ,33909300,Indenizacoes e Restituicoes,5000
+048,202200,44,46  ,44905200,Equipamentos e Material Permanente,10000
+048,202200,44,46  ,46907100,Principal da Divida Contratual Resgatado,5000

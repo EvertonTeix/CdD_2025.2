@@ -1,0 +1,105 @@
+codigo_municipio,exercicio_orcamento,codigo_orgao,codigo_unidade,codigo_rubrica,tipo_fonte,codigo_fonte,descricao_rubrica,valor_previsto
+048,202200,AA,AA  ,111250010000000,1,500000000,Imposto sobre a Propriedade Predial e Territorial Urbana - Principal,2000000
+048,202200,AA,AA  ,111250020000000,1,500000000,Imposto sobre a Propriedade Predial e Territorial Urbana - Multas e Juros,140000
+048,202200,AA,AA  ,111250030000000,1,500000000,Imposto sobre a Propriedade Predial e Territorial Urbana - Divida ativa,500000
+048,202200,AA,AA  ,111250040000000,1,500000000,Imposto sobre a Propriedade Predial e Territorial Urbana - Multas e Juros da Divida ativa,10000
+048,202200,AA,AA  ,111253010000000,1,500000000,Impostos sobre Transmissao  Inter Vivos  de Bens Imoveis e de Direitos Reais sobre Imoveis - Principal,615000
+048,202200,AA,AA  ,111253020000000,1,500000000,Impostos sobre Transmissao  Inter Vivos  de Bens Imoveis e de Direitos Reais sobre Imoveis - Multas e Juros,5000
+048,202200,AA,AA  ,111253030000000,1,500000000,Impostos sobre Transmissao  Inter Vivos  de Bens Imoveis e de Direitos Reais sobre Imoveis - Divida ativa,10000
+048,202200,AA,AA  ,111303110000000,1,500000000,Imposto sobre a Renda - Retido na Fonte - Trabalho - Principal,2500000
+048,202200,AA,AA  ,111303120000000,1,500000000,Imposto sobre a Renda - Retido na Fonte - Trabalho - Multas e Juros,5000
+048,202200,AA,AA  ,111303130000000,1,500000000,Imposto sobre a Renda - Retido na Fonte - Trabalho - Divida ativa,10000
+048,202200,AA,AA  ,111303410000000,1,500000000,Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos - Principal,300000
+048,202200,AA,AA  ,111303420000000,1,500000000,Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos - Multas e Juros,5000
+048,202200,AA,AA  ,111303430000000,1,500000000,Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos - Divida ativa,10000
+048,202200,AA,AA  ,111451110000000,1,500000000,Imposto sobre Servicos de Qualquer Natureza - ISSQN - Principal,4700000
+048,202200,AA,AA  ,111451110100000,1,500000000,ISS - Simples Nacional,1150000
+048,202200,AA,AA  ,111451120000000,1,500000000,Imposto sobre Servicos de Qualquer Natureza - ISSQN - Multas e Juros,40000
+048,202200,AA,AA  ,111451130000000,1,500000000,Imposto sobre Servicos de Qualquer Natureza - ISSQN - Divida ativa,92000
+048,202200,AA,AA  ,112101010000000,1,753000000,Taxas de Inspecao  Controle e Fiscalizacao - Principal,340000
+048,202200,AA,AA  ,112101020000000,1,753000000,Taxas de Inspecao  Controle e Fiscalizacao - Multas e Juros,10000
+048,202200,AA,AA  ,112101030000000,1,753000000,Taxas de Inspecao  Controle e Fiscalizacao - Divida ativa,0
+048,202200,AA,AA  ,112201010000000,1,753000000,Taxas pela Prestacao de Servicos em Geral - Principal,50000
+048,202200,AA,AA  ,124150010000000,1,751000000,Contribuicao para o Custeio do Servico de Iluminacao Publica - Principal,5000000
+048,202200,AA,AA  ,132101010100000,1,704000000,Remuneracao de Depositos Bancarios - VINCULADOS - ROYALTIES,5000
+048,202200,AA,AA  ,132101010200000,1,540000000,Remuneracao de Depositos Bancarios - VINCULADOS - FUNDEB,100000
+048,202200,AA,AA  ,132101010200000,1,540107000,Remuneracao de Depositos Bancarios - VINCULADOS - FUNDEB,400000
+048,202200,AA,AA  ,132101010300000,1,500100200,Remuneracao de Depositos Bancarios - VINCULADOS - FUNDO DE SAUDE,0
+048,202200,AA,AA  ,132101010300000,1,600000000,Remuneracao de Depositos Bancarios - VINCULADOS - FUNDO DE SAUDE,100000
+048,202200,AA,AA  ,132101010300000,1,632000000,Remuneracao de Depositos Bancarios - VINCULADOS - FUNDO DE SAUDE,0
+048,202200,AA,AA  ,132101010400000,1,569000000,Remuneracao de Depositos Bancarios - VINCULADOS - MANUTENCAO E DESENVOLVIMENTO DO ENSINO (MDE),100000
+048,202200,AA,AA  ,132101010800000,1,660000000,Remuneracao de Depositos Bancarios - VINCULADOS - FUNDO NACIONAL DE ASSISTENCIA SOCIAL (FNAS),20000
+048,202200,AA,AA  ,132101011000000,1,500000000,Remuneracao de Depositos Bancarios - VINCULADOS - PREFEITURA,50000
+048,202200,AA,AA  ,132101011300000,1,500000000,Remuneracao de Depositos Bancarios - Principal - NAO VINCULADOS - OUTROS,0
+048,202200,AA,AA  ,132101011300000,1,501000000,Remuneracao de Depositos Bancarios - Principal - NAO VINCULADOS - OUTROS,200000
+048,202200,AA,AA  ,139999010000000,1,500000000,Outras Receitas Patrimoniais - Principal,10000
+048,202200,AA,AA  ,161102010000000,1,753000000,Inscricao em Concursos e Processos Seletivos - Principal,10000
+048,202200,AA,AA  ,163199010000000,1,659000000,Outros Servicos de Atendimento   Saude - Principal,10000
+048,202200,AA,AA  ,169999010000000,1,500000000,Outros Servicos - Principal,10000
+048,202200,AA,AA  ,171151110000000,1,500000000,Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal,51000000
+048,202200,AA,AA  ,171151210000000,1,500000000,Cota-Parte do Fundo de Participacao do Municipios   1% Cota entregue no mes de dezembro - Principal,2000000
+048,202200,AA,AA  ,171151310000000,1,500000000,Cota-Parte do Fundo de Participacao dos Municipios - 1% Cota entregue no mes de julho - Principal,2000000
+048,202200,AA,AA  ,171152010000000,1,500000000,Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal,15000
+048,202200,AA,AA  ,171251010000000,1,708000000,Cota-parte da Compensacao Financeira pela Exploracao de Recursos Minerais - CFEM - Principal,30000
+048,202200,AA,AA  ,171252110000000,1,704000000,Cota-parte da Compensacao Financeira pela Producao de Petroleo   Lei n  7.99/89 - Principal,10000
+048,202200,AA,AA  ,171252210000000,1,704000000,Cota-parte pelo Excedente da Producao do Petroleo   Lei n  9.478/97  artigo 49  I e II - Principal,10000
+048,202200,AA,AA  ,171252410000000,1,704000000,Cota-Parte do Fundo Especial do Petroleo   FEP - Principal,850000
+048,202200,AA,AA  ,171299010000000,1,500000000,Outras Transferencias decorrentes de Compensacao Financeira pela Exploracao de Recursos Naturais   - Principal,1000
+048,202200,AA,AA  ,171350110000000,1,600000000,Transferencias de Recursos do Bloco de Manutencao das Acoes e Servicos Publicos de Saude   Atencao Primaria - Principal,13000000
+048,202200,AA,AA  ,171350210000000,1,600000000,Transf. de Recursos do Bloco de Manutencao das Acoes e Servicos Publicos de Saude   Atencao Especializada - Principal,24000000
+048,202200,AA,AA  ,171350310000000,1,600000000,Transf. de Recursos do Bloco de Manutencao das Acoes e Servicos Publicos de Saude   Vigilancia em Saude - Principal,1000000
+048,202200,AA,AA  ,171350410000000,1,600000000,Transf. de Recursos do Bloco de Manutencao das Acoes e Servicos Publicos de Saude   Assistencia Farmaceutica - Principal,15000
+048,202200,AA,AA  ,171350510000000,1,600000000,Transferencias de Recursos do Bloco de Manutencao das Acoes e Servicos Publicos de Saude   Gestao do SUS - Principal,100000
+048,202200,AA,AA  ,171350910000000,1,602000000,Transferencias de Recursos do Bloco de Manutencao das Acoes e Servicos Publicos de Saude   Outros Programas - Principal,5000000
+048,202200,AA,AA  ,171351110000000,1,600000000,Transferencias de Recursos do Bloco de Estruturacao da Rede de Servicos Publicos de Saude - Atencao Primaria - Principal,100000
+048,202200,AA,AA  ,171351210000000,1,600000000,Transf. de Recursos do Bloco de Estruturacao da Rede de Servicos Publicos de Saude - Atencao Especializada - Principal,100000
+048,202200,AA,AA  ,171450010000000,1,550000000,Transferencias do Salario-Educacao - Principal,1800000
+048,202200,AA,AA  ,171451010000000,1,551000000,Transferencias Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola   PDDE - Principal,5000
+048,202200,AA,AA  ,171452010000000,1,552000000,Transferencias referentes ao Programa Nacional de Alimentacao Escolar   PNAE - Principal,2500000
+048,202200,AA,AA  ,171453010000000,1,553000000,Transferencias referentes ao Programa Nacional de Apoio ao Transporte do Escolar   PNATE - Principal,500000
+048,202200,AA,AA  ,171499010000000,1,569000000,Outras Transferencias Diretas do Fundo Nacional do Desenvolvimento da Educacao - FNDE - Principal,100000
+048,202200,AA,AA  ,171550010000000,1,542000000,Transferencias de Recursos de Complementacao da Uniao ao Fundeb   VAAT - Principal,1000000
+048,202200,AA,AA  ,171550010000000,1,542107000,Transferencias de Recursos de Complementacao da Uniao ao Fundeb   VAAT - Principal,5000000
+048,202200,AA,AA  ,171551010000000,1,541000000,Transferencias de Recursos de Complementacao da Uniao ao Fundeb   VAAF - Principal,4000000
+048,202200,AA,AA  ,171551010000000,1,541107000,Transferencias de Recursos de Complementacao da Uniao ao Fundeb   VAAF - Principal,7000000
+048,202200,AA,AA  ,171552010000000,1,543000000,Transferencias de Recursos de Complementacao da Uniao ao Fundeb   VAAR - Principal,400000
+048,202200,AA,AA  ,171552010000000,1,543107000,Transferencias de Recursos de Complementacao da Uniao ao Fundeb   VAAR - Principal,600000
+048,202200,AA,AA  ,171650010000000,1,660000000,Transferencias de Recursos do Fundo Nacional de Assistencia Social   FNAS - Principal,1000000
+048,202200,AA,AA  ,171750010000000,1,631000000,Transferencias de Convenios da Uniao para o Sistema Unico de Saude   SUS - Principal,150000
+048,202200,AA,AA  ,171751010000000,1,570000000,Transferencias de Convenios da Uniao Destinadas a Programas de Educacao - Principal,150000
+048,202200,AA,AA  ,171799010000000,1,500000000,Outras Transferencias de Convenios da Uniao e de Suas Entidades - Principal,1600000
+048,202200,AA,AA  ,171799010000000,1,660000000,Outras Transferencias de Convenios da Uniao e de Suas Entidades - Principal,400000
+048,202200,AA,AA  ,171799010000000,1,700000000,Outras Transferencias de Convenios da Uniao e de Suas Entidades - Principal,300000
+048,202200,AA,AA  ,171951010000000,1,500000000,Transferencias Financeiras do ICMS   Desoneracao   L.C. N  87/96 - Principal,25000
+048,202200,AA,AA  ,172150010000000,1,500000000,Cota-Parte do ICMS - Principal,11000000
+048,202200,AA,AA  ,172151010000000,1,500000000,Cota-Parte do IPVA - Principal,6500000
+048,202200,AA,AA  ,172152010000000,1,500000000,Cota-Parte do IPI - Municipios - Principal,50000
+048,202200,AA,AA  ,172153010000000,1,750000000,Cota-Parte da Contribuicao de Intervencao no Dominio Economico - Principal,50000
+048,202200,AA,AA  ,172450010000000,1,632000000,Transferencias de Convenios dos Estados e DF para o Sistema Unico de Saude   SUS - Principal,6500000
+048,202200,AA,AA  ,172451010000000,1,571000000,Transferencias de Convenios dos Estados Destinadas a Programas de Educacao - Principal,500000
+048,202200,AA,AA  ,172499010000000,1,661000000,Outras Transferencias de Convenios dos Estados e DF e de Suas Entidades - Principal,0
+048,202200,AA,AA  ,172499010000000,1,701000000,Outras Transferencias de Convenios dos Estados e DF e de Suas Entidades - Principal,500000
+048,202200,AA,AA  ,175150010000000,1,540000000,Transferencias de Recursos - FUNDEB - Principal,13000000
+048,202200,AA,AA  ,175150010000000,1,540107000,Transferencias de Recursos - FUNDEB - Principal,30000000
+048,202200,AA,AA  ,191101010000000,1,500000000,Multas Previstas em Legislacao Especifica - Principal,150000
+048,202200,AA,AA  ,191101010000000,1,752000000,Multas Previstas em Legislacao Especifica - Principal,0
+048,202200,AA,AA  ,192199010000000,1,501000000,Outras Indenizacoes - Principal,50000
+048,202200,AA,AA  ,192299010000000,1,501000000,Outras Restituicoes - Principal,50000
+048,202200,AA,AA  ,199999210000000,1,501000000,Outras Receitas Nao Arrecadadas e Nao Projetadas pela RFB - Primarias   - Principal,1300000
+048,202200,AA,AA  ,199999210100000,1,501000000,Outras Receitas Nao Arrecadadas e Nao Projetadas pela RFB - Primarias - DIVIDA ATIVA NAO TRIBUTARIA,50000
+048,202200,AA,AA  ,199999210200000,1,501000000,Outras Receitas Correntes,0
+048,202200,AA,AA  ,211201010000000,1,754000000,Operacoes de Credito Contratuais - Mercado Interno - Principal,50000
+048,202200,AA,AA  ,221301010000000,1,755000000,Alienacao de Bens Moveis e Semoventes - Principal,50000
+048,202200,AA,AA  ,222101010000000,1,755000000,Alienacao de Bens Imoveis - Principal,50000
+048,202200,AA,AA  ,241199010000000,1,631000000,Outras Transferencias de Recursos do Sistema Unico de Saude - SUS - Principal,250000
+048,202200,AA,AA  ,241250910000000,1,570000000,Outras transferencias destinadas a Programas de Educacao - Principal,250000
+048,202200,AA,AA  ,241499010000000,1,700000000,Outras Transferencias de Convenios da Uniao e de Suas Entidades - Principal,500000
+048,202200,AA,AA  ,242250010000000,1,632000000,Transferencias de Convenios dos Estados para o Sistema Unico de Saude   SUS - Principal,150000
+048,202200,AA,AA  ,242251010000000,1,571000000,Transferencias de Convenios dos Estados destinadas a Programas de Educacao - Principal,150000
+048,202200,AA,AA  ,242299010000000,1,701000000,Outras Transferencias de Convenios dos Estados e DF e de Suas Entidades - Principal,300000
+048,202200,AA,AA  ,951711511100000,1,500000000,Deducao para formacao do FUNDEB de Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal - Principal,-10200000
+048,202200,AA,AA  ,951711520100000,1,500000000,Deducao para formacao do FUNDEB de Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - Principal,-3000
+048,202200,AA,AA  ,951719510100000,1,500000000,Deducao para formacao do FUNDEB de Transferencias Financeiras do ICMS   Desoneracao   L.C. N  87/96 - Principal,-5000
+048,202200,AA,AA  ,951721500100000,1,500000000,Deducao para formacao do FUNDEB de Cota-Parte do ICMS - Principal,-2200000
+048,202200,AA,AA  ,951721510100000,1,500000000,Deducao para formacao do FUNDEB de Cota-Parte do IPVA - Principal,-1300000
+048,202200,AA,AA  ,951721520100000,1,500000000,Deducao para formacao do FUNDEB de Cota-Parte do IPI - Municipios,-10000

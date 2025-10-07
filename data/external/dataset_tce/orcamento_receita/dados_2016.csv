@@ -1,0 +1,142 @@
+codigo_municipio,exercicio_orcamento,codigo_orgao,codigo_unidade,codigo_rubrica,tipo_fonte,codigo_fonte,descricao_rubrica,valor_previsto
+048,201600,34,34  ,111202000000000,1,01       ,Imposto sobre a Propriedade Predial Territorial Urbana,696600.0
+048,201600,34,34  ,111202000000000,1,02       ,Imposto sobre a Propriedade Predial Territorial Urbana,290250.0
+048,201600,34,34  ,111202000000000,1,03       ,Imposto sobre a Propriedade Predial Territorial Urbana,174150.0
+048,201600,34,34  ,111204310000000,1,01       ,Imposto de Renda Retido nas Fontes sobre Rendimentos do Trabalho,996000.0
+048,201600,34,34  ,111204310000000,1,02       ,Imposto de Renda Retido nas Fontes sobre Rendimentos do Trabalho,415000.0
+048,201600,34,34  ,111204310000000,1,03       ,Imposto de Renda Retido nas Fontes sobre Rendimentos do Trabalho,249000.0
+048,201600,34,34  ,111208000000000,1,01       ,Imposto sobre Transmissao de Bens Imoveis - ITBI,483000.0
+048,201600,34,34  ,111208000000000,1,02       ,Imposto sobre Transmissao de Bens Imoveis - ITBI,201250.0
+048,201600,34,34  ,111208000000000,1,03       ,Imposto sobre Transmissao de Bens Imoveis - ITBI,120750.0
+048,201600,34,34  ,111305010000000,1,01       ,Imposto sobre Servicos de Qualquer Natureza,1822800.0
+048,201600,34,34  ,111305010000000,1,02       ,Imposto sobre Servicos de Qualquer Natureza,759500.0
+048,201600,34,34  ,111305010000000,1,03       ,Imposto sobre Servicos de Qualquer Natureza,455700.0
+048,201600,34,34  ,112121000000000,2,27       ,Taxa de Controle e Fiscalizacao Ambiental,175500.0
+048,201600,34,34  ,112125000000000,1,01       ,Taxa de Licenca para Funcion.Estabelec.Comerc.Indust.e Pres.Servi,60000.0
+048,201600,34,34  ,112131000000000,1,01       ,Taxa de Utilizacao de Area de Dominio Publico,70000.0
+048,201600,34,34  ,112199000000000,1,01       ,Outras Taxas pelo Exercicio do Poder de Policia,120000.0
+048,201600,34,34  ,112299000000000,1,01       ,Outras Taxas pela Prestacao de Servicos,189000.0
+048,201600,34,34  ,123000000000000,2,12       ,Contribuicao para o Custeio do Servico de Iluminacao Publica,1539000.0
+048,201600,34,34  ,132501020000000,2,13       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - FUNDEB,91800.0
+048,201600,34,34  ,132501020000000,2,14       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - FUNDEB,61200.0
+048,201600,34,34  ,132501030000000,2,09       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - Fundo de Saude,135000.0
+048,201600,34,34  ,132501050000000,2,10       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - MDE,75000.0
+048,201600,34,34  ,132501100000000,2,24       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - FNAS,55000.0
+048,201600,34,34  ,132501990000000,1,01       ,Rem. de Outros Dep. Banc.de Recur. Vinculado,200000.0
+048,201600,34,34  ,132502990000000,1,01       ,Remuneracao de Outros Depositos de Recursos nao vinculados,143000.0
+048,201600,34,34  ,139000000000000,1,01       ,Outras Receitas Patrimoniais,50000.0
+048,201600,34,34  ,160013010000000,1,01       ,Servicos Inscricao em Concursos Publicos,50000.0
+048,201600,34,34  ,172101020000000,1,01       ,Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal,22959000.0
+048,201600,34,34  ,172101020000000,1,02       ,Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal,1913250.0
+048,201600,34,34  ,172101020000000,1,03       ,Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal,5739750.0
+048,201600,34,34  ,172101020000000,2,13       ,Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal,4591800.0
+048,201600,34,34  ,172101020000000,2,14       ,Cota-Parte do Fundo de Participacao dos Municipios - Cota Mensal,3061200.0
+048,201600,34,34  ,172101050000000,1,01       ,Cota-Parte do Imposto sobre a Propriedade Territorial Rural,13620.0
+048,201600,34,34  ,172101050000000,1,02       ,Cota-Parte do Imposto sobre a Propriedade Territorial Rural,1135.0
+048,201600,34,34  ,172101050000000,1,03       ,Cota-Parte do Imposto sobre a Propriedade Territorial Rural,3405.0
+048,201600,34,34  ,172101050000000,2,13       ,Cota-Parte do Imposto sobre a Propriedade Territorial Rural,2724.0
+048,201600,34,34  ,172101050000000,2,14       ,Cota-Parte do Imposto sobre a Propriedade Territorial Rural,1816.0
+048,201600,34,34  ,172122200000000,1,01       ,Cota-Parte da Compensacao Financeira de Recursos Minerais - CFEM,1000.0
+048,201600,34,34  ,172122300000000,2,30       ,Cota-Parte Royalties-Compen.Financ.pela Produc.Petro-Lei 7.990/89,48600.0
+048,201600,34,34  ,172122500000000,2,30       ,Cota-Parte Royalties pela Participacao Especial-Lei No 9.478/97,16000.0
+048,201600,34,34  ,172122700000000,2,30       ,Cota-Parte do Fundo Especial do Petroleo - FEP,511000.0
+048,201600,34,34  ,172122900000000,1,01       ,Outras Transf.Decorrentes de Comp. Financ. p/Explor. Rec.Naturais,1000.0
+048,201600,34,34  ,172133111000000,2,09       ,Piso de Atencao Basica Fixo (PAB Fixo),2368000.0
+048,201600,34,34  ,172133113000000,2,09       ,Piso de Atencao Basica Variavel (PAB Variavel),746000.0
+048,201600,34,34  ,172133113100000,2,09       ,Saude da Familia,1415000.0
+048,201600,34,34  ,172133113200000,2,09       ,Agentes Comunitarios de Saude,2310000.0
+048,201600,34,34  ,172133113300000,2,09       ,Saude Bucal,324000.0
+048,201600,34,34  ,172133113800000,2,09       ,Nucleo de Apoio a Saude da Familia - NASF,490000.0
+048,201600,34,34  ,172133113900000,2,09       ,Outros Programas Financ. por Transf. Fundo a Fundo,390000.0
+048,201600,34,34  ,172133121000000,2,09       ,Limite Financeiro da MAC Ambulatorial e Hospitalar,15756000.0
+048,201600,34,34  ,172133121100000,2,09       ,Teto Financeiro,1500000.0
+048,201600,34,34  ,172133121300000,2,09       ,CEO - Centro Espec. Odontologica,166000.0
+048,201600,34,34  ,172133121400000,2,09       ,CAPS - Centro de Atencao Psicosocial,400000.0
+048,201600,34,34  ,172133122000000,2,09       ,Fundo de Acoes Estrategicas e Compensacao - FAEC,10000.0
+048,201600,34,34  ,172133131000000,2,09       ,Vigilancia Epidemiologica e Ambiental em Saude,569000.0
+048,201600,34,34  ,172133132000000,2,09       ,Vigilancia Sanitaria,129000.0
+048,201600,34,34  ,172133133000000,2,09       ,Outros Programas Financ. por Transf. Fundo a Fundo,127000.0
+048,201600,34,34  ,172133141000000,2,09       ,Componente Basico da Assistencia Farmaceutica,53000.0
+048,201600,34,34  ,172133152000000,2,09       ,Implantacao de Acoes e Servicos de Saude,156000.0
+048,201600,34,34  ,172133990000000,2,09       ,Outros Programas Financ. por Transf. Fundo a Fundo,100000.0
+048,201600,34,34  ,172134010000000,2,24       ,Protecao Social Basica,1778700.0
+048,201600,34,34  ,172135010000000,2,10       ,Transferencias do Salario-Educacao,1839000.0
+048,201600,34,34  ,172135020000000,2,10       ,Transfer. Diretas do FNDE - Prog. Dinheiro Direto na Escolar-PDDE,35000.0
+048,201600,34,34  ,172135030000000,2,10       ,Transfer. Direta do FNDE-Prog. Nacional Alimentacao Escolar-PNAE,1369000.0
+048,201600,34,34  ,172135040000000,2,10       ,Tran.Dir.FNDE Ref.ao Progr.Nacional de Apoio Transp.Escolar-PNATE,573000.0
+048,201600,34,34  ,172135990000000,2,10       ,Outras Transf. Dir. Fund. Nacio. Desenvolvimento da Educacao-FNDE,307000.0
+048,201600,34,34  ,172136000000000,1,01       ,Transferencia Financeira do ICMS - Desoneracao - Lc. No 87/96,15840.0
+048,201600,34,34  ,172136000000000,1,02       ,Transferencia Financeira do ICMS - Desoneracao - Lc. No 87/96,1320.0
+048,201600,34,34  ,172136000000000,1,03       ,Transferencia Financeira do ICMS - Desoneracao - Lc. No 87/96,3960.0
+048,201600,34,34  ,172136000000000,2,13       ,Transferencia Financeira do ICMS - Desoneracao - Lc. No 87/96,3168.0
+048,201600,34,34  ,172136000000000,2,14       ,Transferencia Financeira do ICMS - Desoneracao - Lc. No 87/96,2112.0
+048,201600,34,34  ,172199990000000,2,18       ,Demais Transferencias da Uniao,678700.0
+048,201600,34,34  ,172201010000000,1,01       ,Cota-Parte do ICMS,4525380.0
+048,201600,34,34  ,172201010000000,1,02       ,Cota-Parte do ICMS,377115.0
+048,201600,34,34  ,172201010000000,1,03       ,Cota-Parte do ICMS,1131345.0
+048,201600,34,34  ,172201010000000,2,13       ,Cota-Parte do ICMS,905076.0
+048,201600,34,34  ,172201010000000,2,14       ,Cota-Parte do ICMS,603384.0
+048,201600,34,34  ,172201020000000,1,01       ,Cota-Parte do IPVA,1631220.0
+048,201600,34,34  ,172201020000000,1,02       ,Cota-Parte do IPVA,135935.0
+048,201600,34,34  ,172201020000000,1,03       ,Cota-Parte do IPVA,407805.0
+048,201600,34,34  ,172201020000000,2,13       ,Cota-Parte do IPVA,326244.0
+048,201600,34,34  ,172201020000000,2,14       ,Cota-Parte do IPVA,217496.0
+048,201600,34,34  ,172201040000000,1,01       ,Cota-Parte do IPI sobre Exportacao,23400.0
+048,201600,34,34  ,172201040000000,1,02       ,Cota-Parte do IPI sobre Exportacao,1950.0
+048,201600,34,34  ,172201040000000,1,03       ,Cota-Parte do IPI sobre Exportacao,5850.0
+048,201600,34,34  ,172201040000000,2,13       ,Cota-Parte do IPI sobre Exportacao,4680.0
+048,201600,34,34  ,172201040000000,2,14       ,Cota-Parte do IPI sobre Exportacao,3120.0
+048,201600,34,34  ,172201130000000,2,11       ,Cota-Parte da Contribuicao de Intervencao no Dominio Economico,16100.0
+048,201600,34,34  ,172299000000000,2,22       ,Outras Transferencias dos Estados,77800.0
+048,201600,34,34  ,172401000000000,2,13       ,Transf.Recur.do Fundo de Man.Desenv. da Educacao Basica - FUNDEB,18627600.0
+048,201600,34,34  ,172401000000000,2,14       ,Transf.Recur.do Fundo de Man.Desenv. da Educacao Basica - FUNDEB,12418400.0
+048,201600,34,34  ,172402000000000,2,13       ,Transferencia de Recursos da Complementacao da Uniao ao FUNDEB,6033000.0
+048,201600,34,34  ,172402000000000,2,14       ,Transferencia de Recursos da Complementacao da Uniao ao FUNDEB,4022000.0
+048,201600,34,34  ,176101140000000,2,16       ,Outros Convenios da Uniao - Saude,6601000.0
+048,201600,34,34  ,176201000000000,2,20       ,Transferen.de Convenios Estados p/O Sistema Unico de Saude - SUS,6048000.0
+048,201600,34,34  ,176202000000000,2,19       ,Transf.de Convenio dos Estados Destinadas a Programas de Educacao,409900.0
+048,201600,34,34  ,176299000000000,2,22       ,Outras Transferencias de Convenio dos Estados,403500.0
+048,201600,34,34  ,191138000000000,1,01       ,Multas e Juros de Mora do IPTU,7440.0
+048,201600,34,34  ,191138000000000,1,02       ,Multas e Juros de Mora do IPTU,3100.0
+048,201600,34,34  ,191138000000000,1,03       ,Multas e Juros de Mora do IPTU,1860.0
+048,201600,34,34  ,191199010000000,1,01       ,Multas e Juros de Mora de Outros Tributos,15000.0
+048,201600,34,34  ,191199010000000,1,02       ,Multas e Juros de Mora de Outros Tributos,6250.0
+048,201600,34,34  ,191199010000000,1,03       ,Multas e Juros de Mora de Outros Tributos,3750.0
+048,201600,34,34  ,191311000000000,1,01       ,Multas e Juros de Mora da Divida Ativa do IPTU,39120.0
+048,201600,34,34  ,191311000000000,1,02       ,Multas e Juros de Mora da Divida Ativa do IPTU,16300.0
+048,201600,34,34  ,191311000000000,1,03       ,Multas e Juros de Mora da Divida Ativa do IPTU,9780.0
+048,201600,34,34  ,191399000000000,1,01       ,Multas e Juros de Mora da Divida Ativa de Outros Tributos,12600.0
+048,201600,34,34  ,191399000000000,1,02       ,Multas e Juros de Mora da Divida Ativa de Outros Tributos,5250.0
+048,201600,34,34  ,191399000000000,1,03       ,Multas e Juros de Mora da Divida Ativa de Outros Tributos,3150.0
+048,201600,34,34  ,191826000000000,1,01       ,Multas e Juros de Mora Decorrentes de Multas por Auto de Infracao,300.0
+048,201600,34,34  ,191826000000000,1,02       ,Multas e Juros de Mora Decorrentes de Multas por Auto de Infracao,125.0
+048,201600,34,34  ,191826000000000,1,03       ,Multas e Juros de Mora Decorrentes de Multas por Auto de Infracao,75.0
+048,201600,34,34  ,191915000000000,2,28       ,Multas Previstas na Legislacao do Transito,138000.0
+048,201600,34,34  ,192299000000000,1,01       ,Outras Restituicoes,23600.0
+048,201600,34,34  ,193111000000000,1,01       ,Receita da Divida Ativa do I.P.T.U.,139800.0
+048,201600,34,34  ,193111000000000,1,02       ,Receita da Divida Ativa do I.P.T.U.,58250.0
+048,201600,34,34  ,193111000000000,1,03       ,Receita da Divida Ativa do I.P.T.U.,34950.0
+048,201600,34,34  ,193199010000000,1,01       ,Receita da Divida Ativa de Outros Tributos - Principal,222000.0
+048,201600,34,34  ,193199010000000,1,02       ,Receita da Divida Ativa de Outros Tributos - Principal,92500.0
+048,201600,34,34  ,193199010000000,1,03       ,Receita da Divida Ativa de Outros Tributos - Principal,55500.0
+048,201600,34,34  ,193299010000000,1,01       ,Receita da Divida Ativa Nao-Tributaria de Outras Rec. - Principal,23000.0
+048,201600,34,34  ,199099020000000,1,01       ,Outras Receitas - Financeiras,464100.0
+048,201600,34,34  ,221900000000000,2,32       ,Alienacao de Outros Bens Moveis,100000.0
+048,201600,34,34  ,242101000000000,2,09       ,Transferencias de Recursos do Sistema Unico de Saude-SUS,1705538.23
+048,201600,34,34  ,242199000000000,2,18       ,Outras Transferencias da Uniao,3448800.0
+048,201600,34,34  ,242299000000000,2,22       ,Outras Transferencias dos Estados,600000.0
+048,201600,34,34  ,247102000000000,2,15       ,Transferencias de Convenio da Uniao Destinadas a Prog.de Educacao,170000.0
+048,201600,34,34  ,247199000000000,2,18       ,Outras Transferencias de Convenio da Uniao,3750000.0
+048,201600,34,34  ,247299000000000,2,22       ,Outras Transferencias de Convenio dos Estados,270000.0
+048,201600,34,34  ,951721010200000,2,13       ,Deducao de Receita do FPM - FUNDEB e Redutor Financeiro,-4591800.0
+048,201600,34,34  ,951721010200000,2,14       ,Deducao de Receita do FPM - FUNDEB e Redutor Financeiro,-3061200.0
+048,201600,34,34  ,951721010500000,2,13       ,Deducao de Receita para a Formacao do FUNDEB-ITR,-2724.0
+048,201600,34,34  ,951721010500000,2,14       ,Deducao de Receita para a Formacao do FUNDEB-ITR,-1816.0
+048,201600,34,34  ,951721360000000,2,13       ,Deducao de Receita p/ a Formacao do FUNDEB-ICMS Deson.-Lei 87/96,-3168.0
+048,201600,34,34  ,951721360000000,2,14       ,Deducao de Receita p/ a Formacao do FUNDEB-ICMS Deson.-Lei 87/96,-2112.0
+048,201600,34,34  ,951722010100000,2,13       ,Deducao de Receita para a Formacao do FUNDEB - ICMS,-905076.0
+048,201600,34,34  ,951722010100000,2,14       ,Deducao de Receita para a Formacao do FUNDEB - ICMS,-603384.0
+048,201600,34,34  ,951722010200000,2,13       ,Deducao de Receita para Formacao do FUNDEB - IPVA,-3262644.0
+048,201600,34,34  ,951722010200000,2,14       ,Deducao de Receita para Formacao do FUNDEB - IPVA,-2175096.0
+048,201600,34,34  ,951722010400000,2,13       ,Deducao de Receita para a Formacao do FUNDEB - IPI - Exportacao,-4680.0
+048,201600,34,34  ,951722010400000,2,14       ,Deducao de Receita para a Formacao do FUNDEB - IPI - Exportacao,-3120.0

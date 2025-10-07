@@ -1,0 +1,93 @@
+codigo_municipio,exercicio_orcamento,codigo_orgao,codigo_unidade,codigo_rubrica,tipo_fonte,codigo_fonte,descricao_rubrica,valor_previsto
+048,201400,06,06  ,111202000000,0,00       ,Imposto sobre a Propriedade Predial Territorial Urbana,700000
+048,201400,06,06  ,111204310000,0,00       ,Imposto de Renda Retido nas Fontes sobre Rendimentos do Trabalho,800000
+048,201400,06,06  ,111204340000,0,00       ,Imposto de Renda Retido nas Fontes sobre Outros Rendimentos,100000
+048,201400,06,06  ,111208000000,0,00       ,Imposto sobre Transmissao de Bens Imoveis - ITBI,600000
+048,201400,06,06  ,111305010000,0,00       ,Imposto sobre Servicos de Qualquer Natureza,1700000
+048,201400,06,06  ,112121000000,0,00       ,Taxa de Controle e Fiscalizacao Ambiental,0
+048,201400,06,06  ,112125000000,0,00       ,Taxa de Licenca para Funcion.Estabelec.Comerc.Indust.e Pres.Servi,0
+048,201400,06,06  ,112199000000,0,00       ,Outras Taxas pelo Exercicio do Poder de Policia,300000
+048,201400,06,06  ,112299000000,0,00       ,Outras Taxas pela Prestacao de Servicos,300000
+048,201400,06,06  ,123000000000,0,00       ,Contribuicao para o Custeio do Servico de Iluminacao Publica,900000
+048,201400,06,06  ,131530000000,0,00       ,Taxa de Ocupacao de Outros Imoveis,0
+048,201400,06,06  ,132501020000,0,00       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - FUNDEB,30000
+048,201400,06,06  ,132501030000,0,00       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - Fundo de Saude,20000
+048,201400,06,06  ,132501050000,0,00       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - MDE,70000
+048,201400,06,06  ,132501100000,0,00       ,Rec. de Rem. de Dep. Banc. de Rec. Vinc. - FNAS,10000
+048,201400,06,06  ,132501990000,0,00       ,Rem. de Outros Dep. Banc.de Recur. Vinculado,120000
+048,201400,06,06  ,132502990000,0,00       ,Remuneracao de Outros Depositos de Recursos nao vinculados,10000
+048,201400,06,06  ,139000000000,0,00       ,Outras Receitas Patrimoniais,500
+048,201400,06,06  ,160013010000,0,00       ,Servicos Inscricao em Concursos Publicos,0
+048,201400,06,06  ,172101020000,0,00       ,Cota-Parte do Fundo de Participacao dos Municipios,33447030
+048,201400,06,06  ,172101050000,0,00       ,Cota-Parte do Imposto sobre a Propriedade Territorial Rural,10000
+048,201400,06,06  ,172122200000,0,00       ,Cota-Parte da Compensacao Financeira de Recursos Minerais - CFEM,10000
+048,201400,06,06  ,172122300000,0,00       ,Cota-Parte Royalties-Compen.Financ.pela Produc.Petro-Lei 7.990/89,1000
+048,201400,06,06  ,172122500000,0,00       ,Cota-Parte Royalties pela Participacao Especial-Lei No 9.478/97,0
+048,201400,06,06  ,172122700000,0,00       ,Cota-Parte do Fundo Especial do Petroleo - FEP,40000
+048,201400,06,06  ,172122900000,0,00       ,Outras Transf.Decorrentes de Comp. Financ. p/Explor. Rec.Naturais,0
+048,201400,06,06  ,172133111000,0,00       ,Piso de Atencao Basica Fixo (PAB Fixo),440000
+048,201400,06,06  ,172133113000,0,00       ,Piso de Atencao Basica Variavel (PAB Variavel),0
+048,201400,06,06  ,172133113100,0,00       ,Saude da Familia,2100000
+048,201400,06,06  ,172133113200,0,00       ,Agentes Comunitarios de Saude,1858450
+048,201400,06,06  ,172133113300,0,00       ,Saude Bucal,345000
+048,201400,06,06  ,172133113900,0,00       ,Outros Programas Financ. por Transf. Fundo a Fundo,300000
+048,201400,06,06  ,172133121000,0,00       ,Limite Financeiro da Mac Ambulatorial e Hospitalar,3300000
+048,201400,06,06  ,172133121100,0,00       ,Teto Financeiro,5400000
+048,201400,06,06  ,172133121300,0,00       ,CEO - Centro Espec. Odontologica,120000
+048,201400,06,06  ,172133121900,0,00       ,Outros Programas Finan. por Transf. Fundo a Fundo,0
+048,201400,06,06  ,172133122000,0,00       ,Fundo de Acoes Estrategicas e Compensacao - FAEC,0
+048,201400,06,06  ,172133131000,0,00       ,Vigilancia Epidemiologica e Ambiental em Saude,340000
+048,201400,06,06  ,172133132000,0,00       ,Vigilancia Sanitaria,20000
+048,201400,06,06  ,172133133000,0,00       ,Outros Programas Financ. por Transf. Fundo a Fundo,500000
+048,201400,06,06  ,172133144000,0,00       ,Farmacia Popular do Brasil,100000
+048,201400,06,06  ,172133152000,0,00       ,Implantacao de Acoes e Servicos de Saude,0
+048,201400,06,06  ,172133990000,0,00       ,Outros Programas Financ. por Transf. Fundo a Fundo,500000
+048,201400,06,06  ,172134010000,0,00       ,Transf.Uniao-Loas-Progr.Acao Continuada,1600000
+048,201400,06,06  ,172135010000,0,00       ,Transferencias do Salario-Educacao,1200000
+048,201400,06,06  ,172135020000,0,00       ,Transfer. Diretas do FNDE - Prog. Dinheiro Direto na Escolar-PDDE,10000
+048,201400,06,06  ,172135030000,0,00       ,Transfer. Direta do FNDE-Prog. Nacional Alimentacao Escolar-PNAE,800000
+048,201400,06,06  ,172135040000,0,00       ,Tran.Dir.FNDE Ref.ao Progr.Nacional de Apoio Transp.Escolar-PNATE,440000
+048,201400,06,06  ,172135050000,0,00       ,Transferencias do FNDE - Brasil Alfabetizado,200000
+048,201400,06,06  ,172135990000,0,00       ,Outras Transf. Dir. Fund. Nacio. Desenvolvimento da Educacao-FNDE,200000
+048,201400,06,06  ,172136000000,0,00       ,Transferencia Financeira do ICMS - Desoneracao - Lc. No 87/96,28000
+048,201400,06,06  ,172199010000,0,00       ,Transferencias do Simples Nacional,300000
+048,201400,06,06  ,172199990000,0,00       ,Demais Transferencias da Uniao,300000
+048,201400,06,06  ,172201010000,0,00       ,Cota-Parte do ICMS,6300000
+048,201400,06,06  ,172201020000,0,00       ,Cota-Parte do IPVA,2400000
+048,201400,06,06  ,172201040000,0,00       ,Cota-Parte do IPI sobre Exportacao,25000
+048,201400,06,06  ,172201130000,0,00       ,Cota-Parte da Contribuicao de Intervencao no Dominio Economico,0
+048,201400,06,06  ,172233000000,0,00       ,Transferencia de Recursos do Estado p/ Prog.Saude-Rep.Fundo/Fundo,2700000
+048,201400,06,06  ,172299000000,0,00       ,Outras Transferencias dos Estados,200000
+048,201400,06,06  ,172401000000,0,00       ,Transf.Recur.do Fundo de Man.Desenv. da Educacao Basica - FUNDEB,24400000
+048,201400,06,06  ,172402000000,0,00       ,Transferencia de Recursos da Complementacao da Uniao ao FUNDEB,7260000
+048,201400,06,06  ,176199000000,0,00       ,Outras Transferencias de Convenios da Uniao,1100000
+048,201400,06,06  ,176201000000,0,00       ,Transferen.de Convenios Estados p/O Sistema Unico de Saude - SUS,0
+048,201400,06,06  ,176202000000,0,00       ,Transf.de Convenio dos Estados Destinadas a Programas de Educacao,0
+048,201400,06,06  ,176299000000,0,00       ,Outras Transferencias de Convenio dos Estados,1000000
+048,201400,06,06  ,191138000000,0,00       ,Multas e Juros de Mora do IPTU,1000
+048,201400,06,06  ,191199010000,0,00       ,Multas e Juros de Mora de Outros Tributos,180000
+048,201400,06,06  ,191311000000,0,00       ,Multas e Juros de Mora da Divida Ativa do IPTU,0
+048,201400,06,06  ,191399000000,0,00       ,Multas e Juros de Mora da Divida Ativa de Outros Tributos,0
+048,201400,06,06  ,191915000000,0,00       ,Multas Previstas na Legislacao do Transito,15000
+048,201400,06,06  ,191948000000,0,00       ,Multas Aplicadas Pelos Tribunais de Contas,20000
+048,201400,06,06  ,192299000000,0,00       ,Outras Restituicoes,100000
+048,201400,06,06  ,193111000000,0,00       ,Receita da Divida Ativa do I.P.T.U.,179026
+048,201400,06,06  ,193199010000,0,00       ,Receita da Divida Ativa de Outros Tributos - Principal,70000
+048,201400,06,06  ,193299010000,0,00       ,Receita da Divida Ativa Nao-Tributaria de Outras Rec. - Principal,10000
+048,201400,06,06  ,199099000000,0,00       ,Outras Receitas,402000
+048,201400,06,06  ,221900000000,0,00       ,Alienacao de Outros Bens Moveis,165000
+048,201400,06,06  ,242101000000,0,00       ,Transferencias de Recursos do Sistema Unico de Saude-SUS,0
+048,201400,06,06  ,242199000000,0,00       ,Outras Transferencias da Uniao,3000000
+048,201400,06,06  ,242299000000,0,00       ,Outras Transferencias dos Estados,1000000
+048,201400,06,06  ,247102000000,0,00       ,Transferencias de Convenio da Uniao Destinadas a Prog.de Educacao,0
+048,201400,06,06  ,247105000000,0,00       ,Transf.de Conv.da Uniao Destin.a Prog. Infra-Estrut.em Transporte,0
+048,201400,06,06  ,247199000000,0,00       ,Outras Transferencias de Convenio da Uniao,4400000
+048,201400,06,06  ,247201000000,0,00       ,Transferencias de Convenio dos Estados p/ Sist.Unico Saude - SUS,0
+048,201400,06,06  ,247205000000,0,00       ,Transf.de Conv.dos Estados Destin.a Prog.de Infra-Estr.Transporte,0
+048,201400,06,06  ,247299000000,0,00       ,Outras Transferencias de Convenio dos Estados,1000000
+048,201400,06,06  ,951721010200,0,00       ,Deducao de Receita do FPM - FUNDEB e Redutor Financeiro,-6689406
+048,201400,06,06  ,951721010500,0,00       ,Deducao de Receita para a Formacao do FUNDEB-ITR,-2000
+048,201400,06,06  ,951721360000,0,00       ,Deducao de Receita p/ a Formacao do FUNDEB-ICMS Deson.-Lei 87/96,-5600
+048,201400,06,06  ,951722010100,0,00       ,Deducao de Receita para a Formacao do FUNDEB - ICMS,-1260000
+048,201400,06,06  ,951722010200,0,00       ,Deducao de Receita para Formacao do FUNDEB - IPVA,-480000
+048,201400,06,06  ,951722010400,0,00       ,Deducao de Receita para a Formacao do FUNDEB - IPI - Exportacao,-5000

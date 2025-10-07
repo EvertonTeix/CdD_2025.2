@@ -1,0 +1,140 @@
+codigo_municipio,exercicio_orcamento,codigo_orgao,codigo_unidade,codigo_funcao,codigo_subfuncao,codigo_programa,codigo_projeto_atividade,numero_projeto_atividade,numero_subprojeto_atividade,codigo_tipo_orcamento,nome_projeto_atividade,descricao_projeto_atividade,valor_total_fixado_projeto_atividade
+048,201500,01,01  ,01,031,0001,2,001,0000,F,Manutencao do Poder Legislativo Municipal,MANUTENCAO DO PODER LEGISLATIVO MUNICIPAL,3673000.0
+048,201500,02,02  ,04,122,0037,2,002,0000,F,Custeio das Atividades do Gabinete do Prefeito e do Vice Prefeito,CUSTEIO DAS ATIVIDADES DO GABINETE DO PREFEITO e do Vice Prefeito,1644365.0
+048,201500,02,02  ,04,182,0107,2,003,0000,F,Manutencao da Coordenacao Municipal da Defesa Civil,Manutencao da Coordenacao Municipal da Defesa Civil,130000.0
+048,201500,04,04  ,04,122,0037,2,004,0000,F,Manutencao da Procuradoria Municipal,MANUTENCAO DA PROCURADORIA MUNICIPAL,751000.0
+048,201500,04,04  ,04,124,0042,2,005,0000,F,Manutencao das Atividades Gerais da Controladoria do Municipio,Manutencao das Atividades Gerais da Controladoria do Municipio,243000.0
+048,201500,06,06  ,04,122,0037,2,006,0000,F,Custeio das Acoes do Departamento de Gestao Administrativa,Custeio da gestao administrativa,1747000.0
+048,201500,06,06  ,04,123,0037,2,007,0000,F,Custeio Administrativo da Secretaria,CUSTEIO ADMINISTRATIVO DA SECRETARIA,3610000.0
+048,201500,06,06  ,28,843,0962,2,008,0000,F,Amortizacao da Divida Interna,AMORTIZACAO DA DIVIDA INTERNA,520000.0
+048,201500,06,06  ,99,999,0999,9,001,0000,F,Reserva de Contingencia,RESERVA DE CONTINGENCIA,1275000.0
+048,201500,07,07  ,08,241,0121,2,009,0000,S,Protecao Social Basica/Assistencia ao Idoso/Projeto Terceira Idade Cidada,Assistencia ao idoso.,29858.0
+048,201500,07,07  ,08,241,0121,2,010,0000,S,Servico de Conviv e Fortalec.de Vinculo ao Idoso-SCFV/Piso Basico Variavel,Fortalecimento de vinculo ao idoso - SCFV/Piso Basico Variavel,66950.0
+048,201500,07,07  ,08,242,0126,2,011,0000,S,Assistencia ao Portador de Deficiencia Projeto Investimento Cidadao,Assistencia ao portador de deficiecia,12004.0
+048,201500,07,07  ,08,243,0131,2,012,0000,S,"Acolhimento para Criancas,Adolesc.ate 21 anos Piso Alta Complex. Pac I","Servico de acolhimento para criancas, adolescentes ate 21 anos, por meio de Piso de Alta Complexidade I - Pac I.",240000.0
+048,201500,07,07  ,08,243,0131,2,013,0000,S,Serv.Convivemcia e Fortalec.de Vinculo p/Crianca/Adolesc de 15/17 anos SCFV/PBV,Fortalecimento de vinculo para a crianca e adolescentes de 15 a 17 anos SCFV/PBV,48950.0
+048,201500,07,07  ,08,243,0131,2,014,0000,S,Fortalec.de Vinculo p/Criancas e Adolesc de 06/15 anos - SCFV/PBV,Fortalecimento de vinculo para criancas eadolescentes de 06/15 anos SCFV/PBV,48950.0
+048,201500,07,07  ,08,243,0131,2,015,0000,S,Serv.Convivencia e Fortalec.de Vinculos p/Criancas de ate 06 anos - SCFV/PBV,Fortalecimento de vinculo para criacas ate 06 anos - SCFV/PBV,48050.0
+048,201500,07,07  ,08,243,0131,2,016,0000,S,Realizacao das acoes estrstegicas de Erradic.do Trabalho Infantil-PETI/SUAS,"Execucao do programa de erradicacao do trabalho infantil PETI, atraves do SUAS.",79200.0
+048,201500,07,07  ,08,243,0132,2,017,0000,S,Servico de Convivencia e Fortalecimento de Vinculo - SCFV/PBV,protecao social basica.,48950.0
+048,201500,07,07  ,08,244,0126,2,018,0000,S,Implantacao do Conselho Munic. dos Direi da Pessoa com Deficienci.,Implantacao de conselho CMDPD.,20000.0
+048,201500,07,07  ,08,244,0137,1,001,0000,S,Construcao de Centro de Ref. Assist. Social - Cras,CONSTRUCAO DE CENTRO DE REF. ASSIST. SOCIAL - CRAS,110000.0
+048,201500,07,07  ,08,244,0137,1,002,0000,S,Construcao do Centro de Referencia Espec ializado da Assistencia Social - CREAS,"Contrucao do Centro de Referencia Especializado da Assistencia Social - CREAS, no Municipio de Crateus.",263000.0
+048,201500,07,07  ,08,244,0137,1,003,0000,S,Implantacao do Banco de Alimentos,"Implantacao do Banco de Alimentos do Municipio de Crateus, por meio de elaboracao de Projeto Executivo, Construcao de edificacoes e aquisicao de equipamentos e utensilios.",474900.0
+048,201500,07,07  ,08,244,0137,1,004,0000,S,Modernizacao da Cozinha Comunitaria,"Modernizacao da Cozinha Comunitaria do Municipio de Crateus, por meio de elaboracao de Projeto Executivo, Construcao de edificacoes e aquisicao de equipamentos e utensilios.",120000.0
+048,201500,07,07  ,08,244,0137,2,019,0000,S,Operacionalizacao  da Cozinha Comunitaria,APOIO A INSTALACAO DE COZINHA COMUNITARIA,120000.0
+048,201500,07,07  ,08,244,0137,2,020,0000,S,Acolhimento Instituc. p/Jovens e Adultos Com Defic. Piso de Alta Complexidade II;,Servico de acolhimento institucional para jovens e adultos com deficiencia em situacao de dependencia em residencia inclusiva por meio do Piso de Alta Complexildade II - Pac II.,240000.0
+048,201500,07,07  ,08,244,0137,2,021,0000,S,Gestao do Programa Bolsa Familia IGD/PBF,Gestao do programa bolsa familia - mIGD/PBF,554410.0
+048,201500,07,07  ,08,244,0137,2,022,0000,S,Aprimoramento da Gestao do Indice de Gestao Descentralizada do SUAS/IGDSUAS,Gestao do Suas/Igdsuas.,96065.0
+048,201500,07,07  ,08,244,0137,2,023,0000,S,Gestao de Beneficios Eventuas-BE,"Distribuicao de beneficios eventuais, tais como: auxilio natalidade e auxilio funeral.",100000.0
+048,201500,07,07  ,08,244,0137,2,024,0000,S,Manutencao do Programa - Acessuas/Traba- lho/Pronatec,Manutencao do Programa Nacional de Promocao do acesso ao Mundo do Trabalho.,105000.0
+048,201500,07,07  ,08,244,0137,2,025,0000,S,Realizacao de Conferencias Municipais.,Manutencao de Conferencias Municipais.,60000.0
+048,201500,07,07  ,08,244,0137,2,026,0000,S,Apoio a acoes do Programa BPC na Escola,Manutencao das acoes do programa BPC na escola.,10820.0
+048,201500,07,07  ,08,244,0137,2,027,0000,S,Protecao Social Basica - Estacao Familia,Protecao a familia.,18600.0
+048,201500,07,07  ,08,244,0137,2,028,0000,S,Manutencao dos CRAS/PBF,Manutencao dos Cras/Pbf.,321616.0
+048,201500,07,07  ,08,244,0137,2,029,0000,S,Manutencao das Equipes Volantes do CRAS/PBF III,Manutencao das equipes volantes CRAS/PBF III,178200.0
+048,201500,07,07  ,08,244,0137,2,030,0000,S,Manut. do CREAS/MSE em meio aberto (LA e PSC) Demais Acoes de PSEMC,Manutencao do CREAS/MSE em meio aberto (LA e PSC) demais acoes ds PSEMC.,205025.0
+048,201500,07,07  ,08,244,0426,2,031,0000,S,Manutencao do Projeto Estacao Digital,MANUTENCAO DO PROJETO ESTACAO DIGITAL,40000.0
+048,201500,08,08  ,12,361,0231,1,005,0000,F,"Construcao,Revitalizacao e Ampliacao  de da Rede do Ensino Basico Fundamental",CONSTRUCAO REFORMA E AMPLIACAO DE ESCOLAS MUNICIPAIS,1100000.0
+048,201500,08,08  ,12,361,0231,2,032,0000,F,Manutencao do Transporte Escolar com recursos do FNDE,Manutencao dos servicos de transporte escolar com recursos do FNDE,2430000.0
+048,201500,08,08  ,12,361,0231,2,033,0000,F,Manutencao do Transporte Escolar com Recursos do Municipio,Manutencao dos ervicos de transporte escolar com recursos do municipio.,1114490.0
+048,201500,08,08  ,12,365,0271,1,006,0000,F,"Construcao,Revitalizacao e Ampliacao da Rede do Ensino Basico Infantil","CONSTRUCAO,REVITALIZACAO E AMPLIACAO DE PREDIOS DA REDE DO ENSINO INFANTIL",1000000.0
+048,201500,08,08  ,12,366,0281,2,078,0000,F,Programa Brasil Alfabetizado,Manutencao do Programa Brasil Alfabetizado,50000.0
+048,201500,08,08  ,12,368,0037,2,034,0000,F,Manutencao das Atividades Educacionais a Cargo do Fundo Municipal de Educacao,CUSTEIO DE ATIVIDADES EDUCACIONAIS,5594000.0
+048,201500,08,08  ,12,368,0196,2,035,0000,F,Programa Nacional de Alimentacao Escolar - Pnae,PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR - PNAE,970000.0
+048,201500,09,09  ,10,122,0037,2,036,0000,S,Manutencao das Atividades Gerais da   Se cretaria Atraves do F.M.de Saude,MANUTENCAO DAS ATIVIDADES GERAIS DA SECRETARIA ATRAVES DO FUNDO MUNICIPAL DE SAUDE,4085935.0
+048,201500,09,09  ,10,301,0171,2,037,0000,S,Transferencia de Recursos para Sociedade beneficente Sao Camilo - Rec.proprios,Transferencia de recursos para a Sociedade Sao Camilo - recursos proprios.,1000000.0
+048,201500,09,09  ,10,301,0171,2,038,0000,S,Funcionamentodo Programa de Saude da Atencao Basica - Prog.Saude da Familia,FUNCIONAMENTODO PROGRAMA DE SAUDE DA ATENCAO BASICA -PSF,7147000.0
+048,201500,09,09  ,10,301,0171,2,039,0000,S,Manutencao das Atividades de Atencao Basica -Prog Agents Comunit de Saude,MANUTENCAO DAS ATIVIDADES DE ATENCAO BASICA PACS,1496137.2
+048,201500,09,09  ,10,301,0171,2,040,0000,S,Manutencao  do Centro de Atencao Psico Social,MANUTENCAO DAS ATIVIDADES do Centro de Atencao Psico Social,452424.31
+048,201500,09,09  ,10,301,0171,2,041,0000,S,Consorcios Publicos de Saude da Microrre giao de Crateus,PARTICIPACAO DO MUNICIPIO NO CONSORCIO DE SAUDE DA MICRORREGIAO DE CRATEUS,780000.0
+048,201500,09,09  ,10,301,0171,2,042,0000,S,Programa Atencao Basica - Saude Bucal,Desenvolver acoes basicas de saude bucal.,275000.0
+048,201500,09,09  ,10,301,0171,2,043,0000,S,Atencao Basica - Nucleo de apoio a saude da familia,Nucleo de apoio a saude da familia,571945.48
+048,201500,09,09  ,10,302,0176,1,007,0000,S,Construcao Ampliacao e Reformas de Unidades Saude,CONSTRUCAO AMPLIACAO E REFORMAS DE UNIDADES SAUDE,1260000.0
+048,201500,09,09  ,10,302,0176,2,044,0000,S,Mac-Faec - Realizacao de Cirugias Eletivas,Realizacao de cirurgias eletivas - recursos Mac/Faec,210000.0
+048,201500,09,09  ,10,302,0176,2,045,0000,S,Manute.das Atividades Ambulatorial e Hospitalar Media e Alta Complexidade,MANUTENCAO DAS ATIVIDADES DE ASSIST AMBUL E HOSPITALAR,5156903.66
+048,201500,09,09  ,10,302,0176,2,046,0000,S,Transf. de Recursos Para a Sociedade Sao Camilo - Fundo a Fundo Estado.,Transfere~encia de recursos para a Sociedade Sao Camilo - Repasse Fundo a Fundo Estado.,4776000.0
+048,201500,09,09  ,10,302,0176,2,047,0000,S,Transf.de Recursos para a Sociedade Sao Camilo - Recursos MAC.,Transferencia de Recursos pa a Sociedade Sao Camilo - recursos MAC.,9224110.0
+048,201500,09,09  ,10,302,0176,2,048,0000,S,Mac - Hospitalar - Manutencao da UPA,Mac - Hospitalar - Manutencao da UPA,4440000.0
+048,201500,09,09  ,10,302,0176,2,049,0000,S,Mac-Ceo-Centro de Espec.Odontologicas,Manutencao do Centro de Especialidades Odontologicas -CEO,255499.73
+048,201500,09,09  ,10,303,0181,2,050,0000,S,Manutencao das Atividades de Assistencia Farmaceutica,MANUTENCAO DAS ATIVIDADES DE ASSISTENCIA FARMACEUTICA,215860.33
+048,201500,09,09  ,10,304,0186,2,051,0000,S,Manutencao das Atividades de Vigilancia Sanitaria,MANUTENCAO DOS SERVICOS DE VIGILANCIA SANITARIA A SAUDE PUBLICA,375647.0
+048,201500,09,09  ,10,305,0171,2,052,0000,S,Manutencao das Atividades de Vigilancia em Saude/Endemias,MANUTENCAO DAS ATIVIDADES DE VIGILANCIA EM SAUDE,2082588.37
+048,201500,10,10  ,04,122,0037,2,053,0000,F,Manutencao do Custeio da Secretaria e dos Servicos de Utilidade Publica,CUSTEIO ADMINISTRATIVO DA SECRETARIA DE INFRAESTRUTURA E DOS SERVICOS BASICOS DE UTILIDADE PUBLICA.,2430000.0
+048,201500,10,10  ,04,122,0037,2,054,0000,F,Manutencao da Guarda Civil Municipal,MANUTENCAO DA GUARDA CIVIL MUNICIPAL,1975400.0
+048,201500,10,10  ,15,451,0332,1,008,0000,F,Execucao de Obras e Servicos de   Infra Estrutura c/Revitalizacao Areas Urbanas,"REVITALIZACAO, E EXCUCAO DE OBRAS E SERVICOS DE INFRA-ESTRUTURA URBANA NA SEDE E DISTRITOS",1511000.0
+048,201500,10,10  ,15,451,0332,1,009,0000,F,"Conclusao de uma, e, Construcao de outra Praca no Bairro Cidade Nova.","Conclusao da segunda etapa de uma praca e construcao de uma outra, no bairro Cidade Nova.",916000.0
+048,201500,10,10  ,15,451,0332,1,010,0000,F,Pavimentacao Asfaltica em Visas Publicas da Cidade de Crateus.,Pavimentacao asfaltica.,605000.0
+048,201500,10,10  ,15,451,0332,1,011,0000,F,Pavimentacao em Pedra em Ruas da Cidade de Crateus.,Pavimentacao em padra.,444550.0
+048,201500,10,10  ,15,451,0332,1,012,0000,F,Implantacao de uma Uzina de Asfalto em Crateus.,Implantacao de uma uzina de asfalto,1050000.0
+048,201500,10,10  ,15,452,0340,1,013,0000,F,Reforma e Ampliacao de Lavanderias Publicas,REFORMA E AMPLIACAO DE LAVANDERIAS PUBLICAS,50000.0
+048,201500,10,10  ,15,452,0340,2,055,0000,F,Manutencao de Servicos de Utilidade Publica,ManutencO de servicos de utilidade publica em vias e logradouros publicos em areas habitadas.,3030000.0
+048,201500,10,10  ,15,452,0347,1,014,0000,F,Reforma e Ampliacao do Terminal Rodoviario,REFORMA E AMPLIACAO DO TERMINAL RODOVIARIO,50000.0
+048,201500,10,10  ,16,482,0351,1,015,0000,F,Programa Morar Melhor,PROGRAMA MELHORIAS HABITACIONAIS,50000.0
+048,201500,10,10  ,17,511,0371,1,016,0000,F,Construcao de Cisternas de Placas para a Populacao de Baixa Renda        .,ASSEGURAR RECURSOS NECESSARIOS PARA CONSTRUCAO DE CISTENAS DE PLACAS PARA A POPULACAO DE BAIXA RENDA,100000.0
+048,201500,10,10  ,17,511,0371,1,017,0000,F,Construir e Equipar Pocos Profundos np ambito do Municipio.,Construir e equipar pocos profundos.,210000.0
+048,201500,10,10  ,17,512,0377,1,018,0000,F,Ampliacao e Ampliacao de Sistema de Esgotamento Sanitario,Obras de esgotamento sanitario,50000.0
+048,201500,10,10  ,17,512,0377,1,019,0000,F,Construcao de Kits e Unidades Sanitarias,CONSTRUCAO DE KITS E UNIDADES SANITARIAS,50000.0
+048,201500,10,10  ,17,512,0377,1,020,0000,F,Construcao do Aterro Sanitario,CONSTRUCAO DO ATERRO SANITARIO,50000.0
+048,201500,10,10  ,17,512,0377,1,021,0000,F,Construir e Equipar Pocos Profundos no ambito do Municipio.,Construir e equipar pocos profundos,210000.0
+048,201500,10,10  ,17,512,0412,1,022,0000,F,Execucao de Obras e Servicos de Saneamen to Basico em Area Urbana.,EXECUCAO DE OBRAS E SERVICOS DE SANEAMENTO BASICO URBANO.,50000.0
+048,201500,10,10  ,23,451,0038,1,023,0000,F,Reforma do Shopping Popular,REFORMA DO SHOPPING POPULAR,50000.0
+048,201500,10,10  ,25,752,0566,1,024,0000,F,Melhoria da Infraestrutura de Energia Eletrical,AMPLIACAO DA REDE DE ENERGIA ELETRICA MUNICIPAL,50000.0
+048,201500,10,10  ,26,782,0586,1,025,0000,F,"Infraestrutura Viaria nos Caminhos e Est radas Vicinais,Inclusive Obras Dartes",BENEFICIAMENTO ESTRADAS VICINAIS E CONSTR.OBRAS D ARTE,600000.0
+048,201500,10,10  ,27,813,0616,1,026,0000,F,Implantacao do Centro de Iniciacao ao Esporte,Implantacao e Modernizacao da Infraestrutura para o Esporte Recreativo e de Lazercom a implantacao de Centro de Iniciacao ao esporte,3148507.0
+048,201500,11,11  ,17,544,0412,1,027,0000,F,Fortalecimento da Infra-Estrutura Hidricas,FORTALECIMENTO DA INFRA-ESTRUTURA HIDRICAS,100000.0
+048,201500,11,11  ,20,122,0037,2,056,0000,F,Manutencao das Atividades Gerais da Secretaria,MANUTENCAO DAS ATIVIDADES GERAIS DA SECRETARIA,796000.0
+048,201500,11,11  ,20,605,0467,1,028,0000,F,Construcao  Reforma e Ampl.Matadouro Publico Municipal,CONSTRUCAO REFORMA E AMPL.MATADOURO PUBLICO MUNICIPAL,50000.0
+048,201500,11,11  ,20,605,0467,1,029,0000,F,Construcao e adaptacao do Centro Apicola Joao Juca Melo,Construcao e Adaptacao do Centro Apicola Joao Juca Melo para uma unidade recebimento e armazenamento de mel padrao.,70000.0
+048,201500,15,15  ,12,361,0231,1,030,0000,F,Construcao de Sistema de Abastecimento D agua em Unidades Escolares,Sistema de abastecimento d agua,80000.0
+048,201500,15,15  ,12,361,0231,1,031,0000,F,Cont. e/ou ampliacao de redes de energia eletrica para atender Unidades Escolares,Sistema de energia eletrica,100000.0
+048,201500,15,15  ,12,361,0231,2,057,0000,F,Manutencao das Atividades DoEnsino  Basi co Fundamental - FUNDEB - 40%,MANUTENCAO DAS ATIVIDADES DO ENSINO BASICO FUNDAMENTO A CARGO DO FUNDEB 40 POR CENTO,14164000.0
+048,201500,15,15  ,12,361,0231,2,058,0000,F,Manutencao do Ensino Basico Fundamental 60% a cargo do FUNDEB,MANUTENCAO DAS ATIVIDADES DO ENSINO BASICO A CARGO DO FUNDEB 60 P/CENTO,18096000.0
+048,201500,15,15  ,12,361,0232,1,032,0000,F,Expansao de Vagas para o Ensino Basico Fundamental a Cargo do FUNDEB,"CONSTRUCAO,REVITALIZACAO E REFORMA DE PREDIOS DO ENSINO FUNDAMENTAL A CARGO DO FUNDEB",100000.0
+048,201500,15,15  ,12,365,0271,2,059,0000,F,Manutencao do Ensino Basico Infantil 60% a cargo do FUNDEB.,CUSTEIO DAS ATIVIDADES DO ENSINO BASICO INFANTIL A CARGO DO FUNDEB,3050000.0
+048,201500,15,15  ,12,365,0272,1,033,0000,F,Expansao de Vagas para o Ensino Basico Infantil a Cargo do FUNDEB,"CONSTRUCAO,REVITALIZACAO E/OU REFORMA DE PREDIOS DESTINADOS A EDUCACAO INFANTIL",100000.0
+048,201500,15,15  ,12,366,0281,2,060,0000,F,Educacao para Jovens e Adultos 60%  a cargo do FUNDEB,MANUTENCAO DO ENSINO SUPLETIVO PARA JOVENS E ADULTOS,670000.0
+048,201500,16,16  ,04,122,0037,2,061,0000,F,Custeio Administrativo da Secretaria de Governo,CUSTEIO ADMINISTRATIVO DA SECRETARIA,446000.0
+048,201500,17,17  ,13,392,0307,1,034,0000,F,Construcao da Central de Artesanato,CONSTRUCAO DA CENTRAL DE ARTESANATO,50000.0
+048,201500,17,17  ,13,392,0307,1,035,0000,F,Construcao da Sede da Academia de Letras de Crateus,ASSEGURAR RECURSOS PARA AQUISICAO DE TERRENO E CONSTRUCAO DO PREDIO SEDE DA ACADEMIA DE LETRAS DO MUNICIPIO DE CRATEUS,50000.0
+048,201500,17,17  ,13,392,0307,2,062,0000,F,Realizacao de Eventos/Carnaval/Semana do municipio/Festas Natalinas e Ano Novo,REALIZACAO DE EVENTOS/CARNAVAL/SEMANA DO MUNICIPIO/FESTAS NATALINAS E ANO NOVO,350000.0
+048,201500,17,17  ,23,695,0536,2,063,0000,F,Incentivo ao Turismo Municipal,INCENTIVO AO TURISMO MUNICIPAL,22000.0
+048,201500,17,17  ,27,122,0037,2,064,0000,F,"Manut.das Ativ.da Sec.de Cultura,Turismo Desporto e Juventude","Manutencao das atividades da Secretaria de Cultura,Turismo, Desporto e Juventuda",630000.0
+048,201500,17,17  ,27,812,0616,1,036,0000,F,Construcao e  Ampliacao  de Quadras Poloesportivas,Construcao e/ou Ampliacao de Quadras Poloesportivas,200000.0
+048,201500,17,17  ,27,812,0616,1,037,0000,F,Construcao e Ampliacao de Quadras Esportivas,Construcao e Ampliacao de Quadras Esportivas,947000.0
+048,201500,17,17  ,27,812,0616,2,065,0000,F,Incentivo ao Desporto no Ambito do Munic ipio,Incentivo ao Desporto no Ambito do Municipio,700000.0
+048,201500,17,17  ,27,813,0616,1,038,0000,F,Implant. e Moderniz. de Infraestrutura para o Esporte Recreativo e de Lazer,ASSEGURAR RECURSOS NECESSARIOS PARA A IMPLANTACAO DE NUCLEOS DE ESPORTE RECREATIVA E DE LAZER NO AMBITO DO MUNICIPIO DE CRATEUS.,350000.0
+048,201500,20,20  ,18,122,0037,2,066,0000,F,Manutencao das Atividades de Meio Ambiente,MANUTENCAO DAS ATIVIDADES DE MEIO AMBIENTE,655200.0
+048,201500,20,20  ,18,122,0401,2,067,0000,F,"Promover Acoes para Proteger o Maio Ambiente, Mantendo Qualidade de Vida",ACOES DE PROTECAO AO MEIO AMBIENTE,55000.0
+048,201500,21,21  ,08,243,0131,2,068,0000,S,Protecao Social Basica - Fortalecimeto das Entidades,Fortalecimento das entidades,75000.0
+048,201500,21,21  ,08,243,0131,2,069,0000,S,Manut.e Fortalecimento das Atividades do Orcamento Crianca,Manutencao e Fortalecimento do Orcamento Crianca.,42000.0
+048,201500,21,21  ,08,243,0131,2,070,0000,S,Protecao Social Especial -Fortalecimento das Entidades,Fortalecimento das Entidades,75000.0
+048,201500,22,22  ,08,244,0137,2,071,0000,S,Manutencao das Atividades do Fundo Municipal dos Dilreitos da Mulher,MANUTENCAO DO FUNDO ESPECIAL DOS DIREITOS DA MULHER,71000.0
+048,201500,23,23  ,04,122,0037,2,072,0000,F,Manut.das Atividades do Fundo Municipal de Habitacao I Interesse Social.,IMPLANTACAO E MANUTENCAO DO CONSELHO MUNICIPAL DA HABITACAO,133000.0
+048,201500,23,23  ,08,244,0137,1,039,0000,S,Melhorias das Condicoes de Habitabilidad de Assentamentos Precarios,Execucao de acoes voltadas para as pessoas de baixa renda,150000.0
+048,201500,23,23  ,16,481,0356,1,040,0000,F,Procgrama Habitacao Popular Rural Construcao e Melhorias,Casas populares em areas habitadas.,185000.0
+048,201500,23,23  ,16,482,0351,1,041,0000,F,Programa Habitacao Popular Urbana Construcao e Melhorias,PROGRAMA CASAS POPULARES EM AREAS HABITADAS,185000.0
+048,201500,24,24  ,08,244,0137,2,073,0000,S,Manutencao das Atividades do Fundo Municipal Ante Drogas,MANUTENCAO DAS ATIVIDADES DO FUNDO MUNICIPAL ANTE-GROIGAS,100000.0
+048,201500,26,26  ,23,691,0491,2,074,0000,F,Manutencao das Atividades da Secretaria de Desenv. Economico e Empreendedorismo,Custeio das atividades da secretaria de desenvolvimento economico e empreendedorismo,595000.0
+048,201500,26,26  ,23,695,0536,2,085,0000,F,Incentivo ao Turismo Municipal,Incentivo ao Turismo,22000.0
+048,201500,27,27  ,18,541,0401,2,075,0000,F,"Protecao,  Conservacao  e Preservacao do meio Ambiente","DESENVOLVER PROGRAMAS DE EDUCACAO AMBIENTAL, RECUPERACAO DO MEIO AMBIENTE DEGRADADO E PRESERVACAO DAS AREAS DE INTERESSE ECOLOGICO COMPREENDENDO A EXECUCAO DE VARIAS ATIVIDADES.",190000.0
+048,201500,28,28  ,08,122,0037,2,076,0000,S,Secretaria Munic.de Assistencia Social,MANUTENCAO das Atividades Administrativas da Secretaria Municipal de Assistencia Social,2052000.0
+048,201500,28,28  ,08,244,0137,2,077,0000,S,Manutencao dos Conselhos da Assistencia Social.,Manutencao das atividades dos Conselhoa,115000.0
+048,201500,29,29  ,04,182,0107,2,079,0000,F,Secretaria Municipal de Protecao e Defesa Civil,Manutencao da Coordenacao Municipal da Defesa Civil,302000.0
+048,201500,30,30  ,04,124,0042,2,080,0000,F,Manutencao das Atividades Gerais da Controladoria do Municipio,Manutencao das Atividades Gerais da Controladoria do Municipio.,229566.96
+048,201500,31,31  ,04,122,0037,2,081,0000,F,Custeio das Acoes do Departamento de Gestao Administrativa,Custeio das Acoes do Departamento de Gestao Administrativa.,1609021.71
+048,201500,32,32  ,13,392,0307,1,042,0000,F,Construcao da Central de Artesanato,Construcao da Central de Artesanato,50000.0
+048,201500,32,32  ,13,392,0307,1,043,0000,F,Construcao da Sede da Academia de Letras,Construcao da Sede da Academia de Letras,50000.0
+048,201500,32,32  ,13,392,0307,2,082,0000,F,Manut. das Ativ. da Secretaria Municipal de Cultura.,Manutencao das Ativ. da Secretaria.,279768.0
+048,201500,32,32  ,13,392,0307,2,083,0000,F,Realizacao de Eventos/Carnaval/Semana do Municipio/Festas Natalinas e Ano Novo,Realizacao de Eventos,350000.0
+048,201500,33,33  ,27,122,0037,2,086,0000,F,Manutencao das Atividades do Desporto e Juventude,Manutencao das Atividades,264468.55
+048,201500,33,33  ,27,812,0616,1,044,0000,F,Construcao e Ampliacao de Quadras Poliesportivas,Construcao de Quadras,200000.0
+048,201500,33,33  ,27,812,0616,1,045,0000,F,Construcao e Ampliacao de Quadras Esportivas,Construcao de Quadras,947000.0
+048,201500,33,33  ,27,812,0616,2,084,0000,F,Incentivo ao Desporto no Ambito do Munic,Incentivo ao Desporto,689564.19
+048,201500,33,33  ,27,813,0616,1,046,0000,F,Implant. e Moderniz. de Infraestrutura para o Esporte Recreativo e de Lazer,Implant. e Moderniz. de Infraestrutura,150021.81
+048,201500,34,34  ,04,123,0037,2,087,0000,F,Secretaria Municipal de Planejamento e Gestao das Financas,Manutencao das Atividades da Secretaria.,3175950.43
+048,201500,34,34  ,28,843,0962,2,088,0000,F,Amortizacao da Divida Interna,Amortizacao da divida,462271.14
+048,201500,35,35  ,13,392,0307,1,047,0000,F,Reformar e Equipar o Teatro Rosa Moraes,Reformar e Equipar o Teatro Municipal,70000.0
+048,201500,35,35  ,13,392,0307,2,089,0000,F,I Edital de Incentivo as Artes de Crateus,Edital de Incentivo as Artes de Crateus.,100000.0
+048,201500,35,35  ,13,392,0307,2,090,0000,F,Projetos Arte na Praca - Nos Rumos da Cultura,Projetos Arte na Praca - Nos rumos da Cultura.,100000.0
+048,201500,35,35  ,13,392,0307,2,091,0000,F,Projeto Feira de Livros,Projeto Feira de Livros,50000.0
