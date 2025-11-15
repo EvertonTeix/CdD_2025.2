@@ -1,6 +1,6 @@
 ## 📂 Estrutura do Projeto
 
-Este projeto segue uma estrutura organizada para garantir a reprodutibilidade e facilitar a colaboração, baseada no padrão [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+Este projeto segue uma estrutura organizada para garantir a reprodutibilidade e facilitar a colaboração.
 
 * **`/data`**: Contém todos os dados do projeto, separados por estágio.
     * **`/data/raw`**: Dados brutos e imutáveis. **Os arquivos desta pasta nunca devem ser editados.**
