@@ -10,7 +10,7 @@ Este projeto segue uma estrutura organizada para garantir a reprodutibilidade e 
 
 * **`/notebooks`**: Notebooks Jupyter (`.ipynb`) usados para exploração, prototipagem de modelos e análise de dados.
 
-* **`/src`**: Código fonte (`.py`) reutilizável do projeto. Funções de limpeza, pipelines de processamento e classes de modelos devem ser armazenadas aqui para serem importadas pelos notebooks.
+* **`/src`**: Código fonte (`.py`) reutilizável do projeto.
 
 * **`/reports`**: Resultados finais e entregáveis do projeto.
     * **`/reports/figures`**: Gráficos, plots e visualizações geradas pela análise.
