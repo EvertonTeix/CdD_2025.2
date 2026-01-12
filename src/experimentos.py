@@ -140,24 +140,3 @@ def kfold_gridsearch_classificacao(X, y, features_names):
     return resultados
 
 
-def pegar_dados_modelo_final(resultados, nome_modelo_final):
-    folds = resultados[nome_modelo_final]
-    
-    y_true_total = np.concatenate([fold_info['y_test'] for fold_info in folds])
-    y_pred_total = np.concatenate([fold_info['y_pred'] for fold_info in folds])
-    
-    modelo_final = folds[0]['modelo']
-    scaler_final = folds[0].get('scaler', None)
-    
-    return y_true_total, y_pred_total, modelo_final, scaler_final
-
-
-def treinar_modelo_SHAP(X,y):
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    modelo = DecisionTreeClassifier(random_state=42)
-    modelo.fit(X_train, y_train)
-
-    # Prever e avaliar
-    y_pred = modelo.predict(X_test)
-    print("Acurácia:", accuracy_score(y_test, y_pred))
-

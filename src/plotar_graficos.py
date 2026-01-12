@@ -9,13 +9,28 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from wordcloud import WordCloud
+import os
 
-def plotar_matriz_correlacao(dataframe,figsize=(15, 15),annot=True,cmap="viridis",titulo="Matriz de Correlação"):
+def plotar_matriz_correlacao(
+    dataframe,
+    figsize=(15, 15),
+    caminho_salvar=None,
+    annot=True,
+    cmap="viridis",
+    titulo="Matriz de Correlação",
+    dpi=300
+):
     corr = dataframe.corr()
 
     plt.figure(figsize=figsize)
     sns.heatmap(corr, annot=annot, cmap=cmap)
     plt.title(titulo)
+
+    # Salvar imagem se o caminho for informado
+    if caminho_salvar:
+        os.makedirs(os.path.dirname(caminho_salvar), exist_ok=True)
+        plt.savefig(caminho_salvar, dpi=dpi, bbox_inches="tight")
+
     plt.show()
 
 def gerar_e_salvar_shap_bar_duas_classes(X, y):
@@ -58,16 +73,29 @@ def gerar_e_salvar_shap_bar_duas_classes(X, y):
     salvar_plot(sv_class0, "SHAP_bar.png")
 
 
-def plot_matriz_confusao(y_true, y_pred):
+def plot_matriz_confusao(
+    y_true,
+    y_pred,
+    caminho_salvar=None,
+    dpi=300
+):
     classes = [0, 1]
-    cm = confusion_matrix(y_true, y_pred)  # números absolutos
+    cm = confusion_matrix(y_true, y_pred)
     
     plt.figure(figsize=(5,4))
-    sns.heatmap(cm, annot=True, fmt="d", cmap="Blues",
-                xticklabels=classes, yticklabels=classes)
+    sns.heatmap(
+        cm,
+        annot=True,
+        fmt="d",
+        cmap="Blues",
+        xticklabels=classes,
+        yticklabels=classes
+    )
     plt.title("Matriz de Confusão - Modelo Final")
     plt.xlabel("Predito")
     plt.ylabel("Real")
+    os.makedirs(os.path.dirname(caminho_salvar), exist_ok=True)
+    plt.savefig(caminho_salvar, dpi=dpi, bbox_inches="tight")
     plt.show()
     
 def plot_matriz_por_tecnica_modelo(resultados, tecnica, configuracao, modelo):
