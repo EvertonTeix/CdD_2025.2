@@ -76,8 +76,6 @@ def resultados_para_dataframe(resultados):
                     "recall": info["metricas"]["recall"],
                     "f1": info["metricas"]["f1"],
                     "best_params": str(info["best_params"]),
-                    "y_true": info["y_true"],
-                    "y_pred": info["y_pred"],
                 })
 
     return pd.DataFrame(linhas)

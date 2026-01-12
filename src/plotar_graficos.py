@@ -66,3 +66,15 @@ def plot_matriz_confusao(y_true, y_pred):
     plt.xlabel("Predito")
     plt.ylabel("Real")
     plt.show()
+    
+def plot_matriz_por_tecnica_modelo(resultados, tecnica, modelo):
+    y_true_all = []
+    y_pred_all = []
+
+    folds = resultados[tecnica][modelo]
+
+    for f in folds:
+        y_true_all.extend(f['y_true'])
+        y_pred_all.extend(f['y_pred'])
+
+    plot_matriz_confusao(y_true_all, y_pred_all)
