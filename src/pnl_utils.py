@@ -3,6 +3,10 @@ import re
 import unicodedata
 import numpy as np
 import pandas as pd
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
@@ -18,7 +22,19 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from scipy.sparse import issparse
 
-stop_words = STOP_WORDS
+stop_words = STOP_WORDS.copy()
+
+palavras_para_remover = {
+    "pra", "queria", "oq", "q", "vc", "p", "d", "pq", "dia", "n", "vou", 
+    "ta", "tá", "to", "tô", "eh", "oh", "né", "tbm", "tb", "hj", "vcs", "ai", "aí",
+    "gente", "pessoa", "pessoas", "coisa", "coisas", "alguém", "ninguém", "mundo",
+    "hoje", "agora", "agr", "ano", "semana", "noite", "hora", "lugar",
+    "acho", "acha", "vai", "vão", "fazer", "fazendo", "ficar", "falar", "disse", 
+    "ir", "ver", "viu", "quer", "ser", "era", "tinha", "tenho", "deu", "bb", "pro", "amo"
+}
+
+
+stop_words.update(palavras_para_remover)
 
 def clean_tweet(text):
     text = text.lower()
@@ -32,7 +48,7 @@ def clean_tweet(text):
 
     text = ' '.join([word for word in text.split() if word not in stop_words])
     
-    return text 
+    return text.strip()
 
 def salvar_resultados_csv(resultados_gerais, caminho_csv="resultados_modelos.csv"):
     linhas = []
@@ -67,14 +83,14 @@ def resultados_para_dataframe(resultados):
                 for info in folds:
                     linhas.append({
                         "tecnica": tecnica,
-                        "configuracao": nome_config, 
-                        "modelo": nome_modelo,
+                        "model": nome_modelo,
                         "fold": info["fold"],
                         "accuracy": info["metricas"]["accuracy"],
                         "precision": info["metricas"]["precision"],
                         "recall": info["metricas"]["recall"],
                         "f1": info["metricas"]["f1"],
-                        "best_params": str(info["best_params"]),
+                        "best_params": str(info["best_params"]), 
+                        "configuracao": nome_config, 
                     })
                     
     return pd.DataFrame(linhas)
@@ -259,3 +275,4 @@ def executar_experimentos_texto_com_parametros(
             resultados_gerais[tecnica][nome_config] = resultados
 
     return resultados_gerais
+

@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import shap
+import pnl_utils as pnl
 from sklearn.metrics import confusion_matrix
 from pathlib import Path
 from sklearn.tree import DecisionTreeClassifier
@@ -139,8 +140,8 @@ def plot_top_tfidf(X, feature_names, top_n=20, titulo="Top palavras com maior TF
     plt.show()
     
 def plot_ranking_experimentos(df_resultados):
-    ranking = df_resultados.groupby(['tecnica', 'configuracao', 'modelo'])['f1'].agg(['mean', 'std']).reset_index()
-    ranking.columns = ['Técnica', 'Configuração', 'Modelo', 'F1-Médio', 'Desvio-Padrão']
+    ranking = df_resultados.groupby(['tecnica', 'configuracao', 'model'])['f1'].agg(['mean', 'std']).reset_index()
+    ranking.columns = ['Técnica', 'Configuração', 'Model', 'F1-Médio', 'Desvio-Padrão']
     ranking = ranking.sort_values(by='F1-Médio', ascending=False)
 
     def simplificar_config(cfg):
@@ -150,7 +151,7 @@ def plot_ranking_experimentos(df_resultados):
         return f"{ngram} {features}".strip()
 
     ranking['Config_Curta'] = ranking['Configuração'].apply(simplificar_config)
-    ranking['Label'] = ranking['Modelo'] + " (" + ranking['Config_Curta'] + ")"
+    ranking['Label'] = ranking['Model'] + " (" + ranking['Config_Curta'] + ")"
 
     fig, axes = plt.subplots(1, 2, figsize=(16, 8), sharex=True)
     tecnicas = ranking['Técnica'].unique()
@@ -195,5 +196,44 @@ def plot_boxplot_comprimento_por_categoria(df, coluna_texto, coluna_categoria, t
     plt.xlabel(coluna_categoria.capitalize())
     plt.ylabel("Número de palavras")
     plt.title(titulo)
+    plt.tight_layout()
+    plt.show()
+    
+def plot_nuvem_melhor_modelo(resultados_gerais):
+    df_ranking = pnl.tabela_metricas_medias(resultados_gerais)
+    melhor_row = df_ranking.sort_values(by='f1_media', ascending=False).iloc[0]
+    
+    tecnica = melhor_row['técnica']
+    config = melhor_row['configuração']
+    modelo_nome = melhor_row['modelo']
+    
+    print(f"Melhor Modelo Identificado: {modelo_nome} ({tecnica})")
+    print(f"Configuração: {config}")
+
+    ultimo_fold = resultados_gerais[tecnica][config][modelo_nome][-1]
+    modelo = ultimo_fold['modelo']
+    feature_names = ultimo_fold['features_names']
+
+    if not hasattr(modelo, 'coef_'):
+        print(f"O modelo {modelo_nome} não suporta extração de coeficientes para polaridade.")
+        return
+
+    coefs = modelo.coef_.toarray()[0] if hasattr(modelo.coef_, "toarray") else modelo.coef_[0]
+    
+    pesos_positivos = {feature_names[i]: coefs[i] for i in np.argsort(coefs)[-50:] if coefs[i] > 0}
+    pesos_negativos = {feature_names[i]: abs(coefs[i]) for i in np.argsort(coefs)[:50] if coefs[i] < 0}
+
+    fig, axes = plt.subplots(1, 2, figsize=(20, 10))
+
+    cloud_pos = WordCloud(width=800, height=400, background_color='white', colormap='Greens').generate_from_frequencies(pesos_positivos)
+    axes[0].imshow(cloud_pos, interpolation='bilinear')
+    axes[0].set_title(f"Importância: Sentimento Positivo (1)\n{modelo_nome}", fontsize=16)
+    axes[0].axis('off')
+
+    cloud_neg = WordCloud(width=800, height=400, background_color='white', colormap='Reds').generate_from_frequencies(pesos_negativos)
+    axes[1].imshow(cloud_neg, interpolation='bilinear')
+    axes[1].set_title(f"Importância: Sentimento Negativo (0)\n{modelo_nome}", fontsize=16)
+    axes[1].axis('off')
+
     plt.tight_layout()
     plt.show()
