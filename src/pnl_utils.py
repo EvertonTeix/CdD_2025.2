@@ -26,8 +26,6 @@ def clean_tweet(text):
     
     text = re.sub(r'@\w+', '', text)
     text = re.sub(r'\brt\b', '', text, flags=re.IGNORECASE) 
-    text = re.sub(r'#\w+', '', text)
-
     text = re.sub(r'[^a-zA-ZÀ-ÿ\s]', '', text)
 
     text = ''.join([char for char in text if not unicodedata.category(char).startswith('So')])
@@ -63,29 +61,30 @@ def salvar_resultados_csv(resultados_gerais, caminho_csv="resultados_modelos.csv
 
 def resultados_para_dataframe(resultados):
     linhas = []
-
-    for tecnica, modelos in resultados.items():
-        for nome_modelo, folds in modelos.items():
-            for info in folds:
-                linhas.append({
-                    "tecnica": tecnica,
-                    "modelo": nome_modelo,
-                    "fold": info["fold"],
-                    "accuracy": info["metricas"]["accuracy"],
-                    "precision": info["metricas"]["precision"],
-                    "recall": info["metricas"]["recall"],
-                    "f1": info["metricas"]["f1"],
-                    "best_params": str(info["best_params"]),
-                })
-
+    for tecnica, configs in resultados.items():
+        for nome_config, modelos in configs.items():
+            for nome_modelo, folds in modelos.items():
+                for info in folds:
+                    linhas.append({
+                        "tecnica": tecnica,
+                        "configuracao": nome_config, 
+                        "modelo": nome_modelo,
+                        "fold": info["fold"],
+                        "accuracy": info["metricas"]["accuracy"],
+                        "precision": info["metricas"]["precision"],
+                        "recall": info["metricas"]["recall"],
+                        "f1": info["metricas"]["f1"],
+                        "best_params": str(info["best_params"]),
+                    })
+                    
     return pd.DataFrame(linhas)
 
 def analise_metricas(y_true, y_pred):
     return {
         'accuracy': accuracy_score(y_true, y_pred),
-        'precision': precision_score(y_true, y_pred, average='macro'),
-        'recall': recall_score(y_true, y_pred, average='macro'),
-        'f1': f1_score(y_true, y_pred, average='macro')
+        'precision': precision_score(y_true, y_pred, average='binary'),
+        'recall': recall_score(y_true, y_pred, average='binary'),
+        'f1': f1_score(y_true, y_pred, average='binary')
     }
 
 def kfold_gridsearch_classificacao(X, y, features_names):
@@ -130,10 +129,10 @@ def kfold_gridsearch_classificacao(X, y, features_names):
         }
     }
 
-    kfold = KFold(n_splits=5, shuffle=True, random_state=42)
+    kfold = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
     resultados = {nome: [] for nome in modelos}
 
-    for fold, (train_idx, test_idx) in enumerate(kfold.split(X), start=1):
+    for fold, (train_idx, test_idx) in enumerate(kfold.split(X, y), start=1):
         print(f"\n===== Fold {fold} =====")
         
         if issparse(X):
@@ -165,7 +164,7 @@ def kfold_gridsearch_classificacao(X, y, features_names):
                 f1 = f1_score(
                     y_val,
                     y_val_pred,
-                    average="macro",
+                    average="binary",
                     zero_division=0
                 )
                 f1_scores.append(f1)
@@ -202,73 +201,61 @@ def kfold_gridsearch_classificacao(X, y, features_names):
     return resultados
 
 
-def executar_experimentos_texto(
+def tabela_metricas_medias(resultados):
+    resumo_list = []
+    for tecnica, configs in resultados.items():
+        for nome_config, modelos in configs.items():
+            for nome_modelo, folds in modelos.items():
+                accs, precisions, recalls, f1s = [], [], [], []
+                
+                for fold_info in folds:
+                    accs.append(fold_info["metricas"]["accuracy"])
+                    precisions.append(fold_info["metricas"]["precision"])
+                    recalls.append(fold_info["metricas"]["recall"])
+                    f1s.append(fold_info["metricas"]["f1"])
+
+                resumo_list.append({
+                    "técnica": tecnica,
+                    "modelo": nome_modelo,
+                    "acc_media": np.mean(accs),
+                    "prec_media": np.mean(precisions),
+                    "rec_media": np.mean(recalls),
+                    "f1_media": np.mean(f1s),
+                    "configuração": nome_config,
+                })
+
+    return pd.DataFrame(resumo_list)
+ 
+def executar_experimentos_texto_com_parametros(
     textos,
     y,
     funcao_treino,
-    vetorizadores=None
+    vetorizadores_config
 ):
-
-    if vetorizadores is None:
-        vetorizadores = {
-            'TF-IDF': TfidfVectorizer(
-                ngram_range=(1, 2),
-                min_df=5,
-                sublinear_tf=True,
-                max_features=5000
-            ),
-            'Bag of Words': CountVectorizer(
-                ngram_range=(1, 2),
-                min_df=5,
-                max_df=0.9
-            )
-        }
+    
+    def criar_vetorizador(tecnica, params):
+        if tecnica == "Bag of Words":
+            return CountVectorizer(**params)
+        elif tecnica == "TF-IDF":
+            return TfidfVectorizer(**params)
+        else:
+            raise ValueError(f"Técnica desconhecida: {tecnica}")
 
     resultados_gerais = {}
 
-    print("Iniciando Experimentos...\n")
+    for tecnica, lista_params in vetorizadores_config.items():
+        resultados_gerais[tecnica] = {}
 
-    for nome_tecnica, vectorizer in vetorizadores.items():
-        print(f"=== Vetorização: {nome_tecnica} ===")
+        for params in lista_params:
+            nome_config = f"{tecnica} | {params}"
 
-        X = vectorizer.fit_transform(textos.astype(str))
-        feature_names = vectorizer.get_feature_names_out()
+            vectorizer = criar_vetorizador(tecnica, params)
 
-        resultados_gerais[nome_tecnica] = funcao_treino(
-            X, y, feature_names
-        )
+            X = vectorizer.fit_transform(textos.astype(str))
+            feature_names = vectorizer.get_feature_names_out()
 
-    print("\nTodos os experimentos finalizados.")
+            resultados = funcao_treino(X, y, feature_names)
+
+            resultados_gerais[tecnica][nome_config] = resultados
 
     return resultados_gerais
-
-
-def tabela_metricas_medias(resultados):
-    linhas = []
-
-    for tecnica, modelos in resultados.items():
-        for nome_modelo, folds in modelos.items():
-            accs, precisions, recalls, f1s = [], [], [], []
-
-            for fold_info in folds:
-                accs.append(fold_info["metricas"]["accuracy"])
-                precisions.append(fold_info["metricas"]["precision"])
-                recalls.append(fold_info["metricas"]["recall"])
-                f1s.append(fold_info["metricas"]["f1"])
-
-            linhas.append({
-                "tecnica": tecnica,
-                "modelo": nome_modelo,
-                "accuracy_mean": np.mean(accs),
-                "accuracy_std": np.std(accs),
-                "precision_mean": np.mean(precisions),
-                "precision_std": np.std(precisions),
-                "recall_mean": np.mean(recalls),
-                "recall_std": np.std(recalls),
-                "f1_mean": np.mean(f1s),
-                "f1_std": np.std(f1s)
-            })
-
-    return pd.DataFrame(linhas).sort_values(
-        by="f1_mean", ascending=False
-    )
