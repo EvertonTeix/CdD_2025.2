@@ -140,9 +140,22 @@ def plot_top_tfidf(X, feature_names, top_n=20, titulo="Top palavras com maior TF
     plt.show()
     
 def plot_ranking_experimentos(df_resultados):
-    ranking = df_resultados.groupby(['tecnica', 'configuracao', 'model'])['f1'].agg(['mean', 'std']).reset_index()
-    ranking.columns = ['Técnica', 'Configuração', 'Model', 'F1-Médio', 'Desvio-Padrão']
-    ranking = ranking.sort_values(by='F1-Médio', ascending=False)
+    ranking = (
+        df_resultados
+        .groupby(['tecnica', 'configuracao', 'model'])['accuracy']
+        .agg(['mean', 'std'])
+        .reset_index()
+    )
+
+    ranking.columns = [
+        'Técnica', 
+        'Configuração', 
+        'Model', 
+        'Acurácia-Média', 
+        'Desvio-Padrão'
+    ]
+
+    ranking = ranking.sort_values(by='Acurácia-Média', ascending=False)
 
     def simplificar_config(cfg):
         cfg_str = str(cfg)
@@ -157,22 +170,29 @@ def plot_ranking_experimentos(df_resultados):
     tecnicas = ranking['Técnica'].unique()
 
     for i, tecnica in enumerate(tecnicas):
-            dados_plot = ranking[ranking['Técnica'] == tecnica]
-            sns.barplot(
-                data=dados_plot, 
-                x='F1-Médio', 
-                y='Label', 
-                hue='Label',
-                ax=axes[i], 
-                palette="viridis" if tecnica == "TF-IDF" else "magma",
-                legend=False 
-            )
-            axes[i].set_title(f'Performance: {tecnica}')
-            axes[i].set_xlabel('F1-Score Médio')
-            axes[i].set_ylabel('')
-            
-            axes[i].set_xlim(ranking['F1-Médio'].min() - 0.05, ranking['F1-Médio'].max() + 0.02)
-            axes[i].grid(axis='x', linestyle='--', alpha=0.5)
+        dados_plot = ranking[ranking['Técnica'] == tecnica]
+
+        sns.barplot(
+            data=dados_plot,
+            x='Acurácia-Média',
+            y='Label',
+            hue='Label',
+            ax=axes[i],
+            palette="viridis" if tecnica == "TF-IDF" else "magma",
+            legend=False
+        )
+
+        axes[i].set_title(f'Performance: {tecnica}')
+        axes[i].set_xlabel('Acurácia Média')
+        axes[i].set_ylabel('')
+
+        axes[i].set_xlim(
+            ranking['Acurácia-Média'].min() - 0.05,
+            ranking['Acurácia-Média'].max() + 0.02
+        )
+
+        axes[i].grid(axis='x', linestyle='--', alpha=0.5)
+
     plt.tight_layout()
     plt.show()
 
@@ -201,7 +221,12 @@ def plot_boxplot_comprimento_por_categoria(df, coluna_texto, coluna_categoria, t
     
 def plot_nuvem_melhor_modelo(resultados_gerais):
     df_ranking = pnl.tabela_metricas_medias(resultados_gerais)
-    melhor_row = df_ranking.sort_values(by='f1_media', ascending=False).iloc[0]
+
+    melhor_row = (
+        df_ranking
+        .sort_values(by='accuracy_media', ascending=False)
+        .iloc[0]
+    )
     
     tecnica = melhor_row['técnica']
     config = melhor_row['configuração']
@@ -215,24 +240,55 @@ def plot_nuvem_melhor_modelo(resultados_gerais):
     feature_names = ultimo_fold['features_names']
 
     if not hasattr(modelo, 'coef_'):
-        print(f"O modelo {modelo_nome} não suporta extração de coeficientes para polaridade.")
+        print(f"O modelo {modelo_nome} não suporta extração de coeficientes.")
         return
 
-    coefs = modelo.coef_.toarray()[0] if hasattr(modelo.coef_, "toarray") else modelo.coef_[0]
-    
-    pesos_positivos = {feature_names[i]: coefs[i] for i in np.argsort(coefs)[-50:] if coefs[i] > 0}
-    pesos_negativos = {feature_names[i]: abs(coefs[i]) for i in np.argsort(coefs)[:50] if coefs[i] < 0}
+    coefs = (
+        modelo.coef_.toarray()[0]
+        if hasattr(modelo.coef_, "toarray")
+        else modelo.coef_[0]
+    )
+
+    pesos_positivos = {
+        feature_names[i]: coefs[i]
+        for i in np.argsort(coefs)[-50:]
+        if coefs[i] > 0
+    }
+
+    pesos_negativos = {
+        feature_names[i]: abs(coefs[i])
+        for i in np.argsort(coefs)[:50]
+        if coefs[i] < 0
+    }
 
     fig, axes = plt.subplots(1, 2, figsize=(20, 10))
 
-    cloud_pos = WordCloud(width=800, height=400, background_color='white', colormap='Greens').generate_from_frequencies(pesos_positivos)
+    cloud_pos = WordCloud(
+        width=800,
+        height=400,
+        background_color='white',
+        colormap='Greens'
+    ).generate_from_frequencies(pesos_positivos)
+
     axes[0].imshow(cloud_pos, interpolation='bilinear')
-    axes[0].set_title(f"Importância: Sentimento Positivo (1)\n{modelo_nome}", fontsize=16)
+    axes[0].set_title(
+        f"Importância: Classe Positiva (1)\n{modelo_nome}",
+        fontsize=16
+    )
     axes[0].axis('off')
 
-    cloud_neg = WordCloud(width=800, height=400, background_color='white', colormap='Reds').generate_from_frequencies(pesos_negativos)
+    cloud_neg = WordCloud(
+        width=800,
+        height=400,
+        background_color='white',
+        colormap='Reds'
+    ).generate_from_frequencies(pesos_negativos)
+
     axes[1].imshow(cloud_neg, interpolation='bilinear')
-    axes[1].set_title(f"Importância: Sentimento Negativo (0)\n{modelo_nome}", fontsize=16)
+    axes[1].set_title(
+        f"Importância: Classe Negativa (0)\n{modelo_nome}",
+        fontsize=16
+    )
     axes[1].axis('off')
 
     plt.tight_layout()

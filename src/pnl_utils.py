@@ -219,11 +219,13 @@ def kfold_gridsearch_classificacao(X, y, features_names):
 
 def tabela_metricas_medias(resultados):
     resumo_list = []
+
     for tecnica, configs in resultados.items():
         for nome_config, modelos in configs.items():
             for nome_modelo, folds in modelos.items():
+
                 accs, precisions, recalls, f1s = [], [], [], []
-                
+
                 for fold_info in folds:
                     accs.append(fold_info["metricas"]["accuracy"])
                     precisions.append(fold_info["metricas"]["precision"])
@@ -233,14 +235,15 @@ def tabela_metricas_medias(resultados):
                 resumo_list.append({
                     "técnica": tecnica,
                     "modelo": nome_modelo,
-                    "acc_media": np.mean(accs),
-                    "prec_media": np.mean(precisions),
-                    "rec_media": np.mean(recalls),
+                    "accuracy_media": np.mean(accs),
+                    "precision_media": np.mean(precisions),
+                    "recall_media": np.mean(recalls),
                     "f1_media": np.mean(f1s),
                     "configuração": nome_config,
                 })
 
     return pd.DataFrame(resumo_list)
+
  
 def executar_experimentos_texto_com_parametros(
     textos,
